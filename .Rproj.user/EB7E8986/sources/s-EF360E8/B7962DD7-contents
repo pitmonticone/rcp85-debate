@@ -1,0 +1,53 @@
+---
+title: "The RCP8.5 Debate"
+author: " #ClimateTwitter #Energy Twitter "
+output:
+ prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+# 10. “ Adopting a formal BAU scenario in the context energy forecasters in this thread desire is a decision policymakers would need to make (but they don't seem to get that!).
+```
+## Glossary
+
+* $BAU$: "Business-As-Usual"
+* $RF$: "Radiative Forcing"
+* $RCPX$: "Representative Concentration Pathway with $RF(2100)\approx X$"
+* $SSP$: "Shared Socioeconomic Pathway"
+* $T$: "Temperature"
+* $ECS$: "Equilibrium Climate Sensitivity"
+* $U$: "Utility"
+
+## Propositions 
+
+1. *Emissions Narratives $\neq$ Emissions $\neq RF \neq T$ $\neq$ Impacts*
+
+1. *Narratives for $SSP5-RCP8.5$ are too fossil-heavy given current best estimate for $BAU$*
+
+1. *$RF(2100)\approx 8.5 W/{m^2}$ is very unlikely*
+
+1. *$RF_{RCP8.5}$ shouldn't be used as no-policy baseline*
+
+1. *$U_{\text{modellers }}(RF\gg RF_{BAU}) > U_{\text{policymakers }}(RF\gg RF_{BAU})$ ^[e.g. to test and compare models, to explore impacts, etc. ; $U$ is utility]*
+
+1. *$\Delta T_{BAU}(\geq 2100) \approx \Delta T_{RCP8.5}(2100) \approx 4°C$ for plausible $ECS$ ^[$BAU$ \in \{ $IEA$, [Hausfather](https://twitter.com/hausfath) \& [Ritchie](https://twitter.com/jritch) \}]*
+
+1. *$RCP8.5$-based results can be scientifically valid and policy-relevant, despite $\textit{EnergyUse}_{RCP8.5} \neq \textit{EnergyUse}_{BAU}$*
+
+1. *Impacts consistent with $\Delta T_{RCP8.5}(2100)$ are not precluded by $BAU$*
+
+1. *Claiming that RCP8.5-based studies are part of a scare tactic by scientists/media is a baseless conspiracy theory that has no place in adult conversation*
+
+1. *Climate assessments should be well supported with robust communications and outreach resources*
+
+
+
+

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577037746077.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3556591055",
+    "id" : "B7962DD7",
+    "lastKnownWriteTime" : 1577037858,
+    "last_content_update" : 1577037858468,
+    "path" : "~/github/rcp85-debate/contents.Rmd",
+    "project_path" : "contents.Rmd",
+    "properties" : {
+        "cursorPosition" : "40,202",
+        "scrollLine" : "33"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
