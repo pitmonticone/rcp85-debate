@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "898412601",
+    "hash" : "2732254258",
     "id" : "B7962DD7",
-    "lastKnownWriteTime" : 1577038577,
-    "last_content_update" : 1577038577083,
+    "lastKnownWriteTime" : 1577038660,
+    "last_content_update" : 1577038660668,
     "path" : "~/github/rcp85-debate/contents.Rmd",
     "project_path" : "contents.Rmd",
     "properties" : {
-        "cursorPosition" : "39,99",
-        "scrollLine" : "25"
+        "cursorPosition" : "37,146",
+        "scrollLine" : "32"
     },
     "relative_order" : 1,
     "source_on_save" : false,
