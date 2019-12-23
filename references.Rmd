@@ -41,7 +41,7 @@ knitr::opts_chunk$set(
 * [Pardee Center Working Paper, University of Denver](https://pardee.du.edu/sites/default/files/Scenarios%20Forum%20Meeting%20Report%204oct19.pdf)
 
 
-## Research Papers 
+## Research & Review Papers 
 
 #### Justin Ritchie 
 * **2017** [Why do climate change scenarios return to coal?, Energy, ](https://www.sciencedirect.com/science/article/abs/pii/S0360544217314597)
@@ -51,6 +51,9 @@ knitr::opts_chunk$set(
 #### Keywan Riahi et al.
 * **2007** [Scenarios of long-term socio-economic and environmental development under climate stabilization](https://www.sciencedirect.com/science/article/pii/S0040162506001387?via%3Dihub)
 * **2011** [RCP 8.5: A scenario of comparatively high greenhouse gas emissions](https://link.springer.com/article/10.1007/s10584-011-0149-y)
+
+#### Detlef P. van Vuuren et al. 
+* **2011** [The Representative Concentration Pathways: An Overview](https://link.springer.com/article/10.1007/s10584-011-0148-z)
 
 ## Articles & Blog Posts
 
