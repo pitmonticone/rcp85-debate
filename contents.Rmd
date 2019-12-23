@@ -76,8 +76,11 @@ knitr::opts_chunk$set(
 
 #### Glen Peters 
 > 
+* Despite CO$_2$ emissions growing a factor of 10 since 1870, per capita emissions have grown a factor of 2. Per capita emissions have been flat since 1950, except for the Chinese growth in the 2000s. What would cause per capita emissions to grow in the future? ([Source](https://twitter.com/Peters_Glen/status/1209024593178038273?s=20))
+* Take out land-use change, & increases in per capita emissions have come with new fossil sources. What is the next fossil source in increase per capita emissions? Will gas add to coal & oil, or displace it? Will non-fossil source displace fossil sources? ([Source](https://twitter.com/Peters_Glen/status/1209027198629371906?s=20))
 * $RCP8.5$ (& some other no policy baselines) require CO$_2$ emissions per capita to double by 2050 & triple by 2100, despite being flat for the last 50 years & only doubling since 1900. RCP8.5 is without historical precedent. ([Source](https://twitter.com/Peters_Glen/status/1209028367774814208?s=20))
 * Another way to put it, is that $RCP8.5$ assumes that coal grows faster than population. History shows that is rare. If emissions per capita remained at about 6, and population went to 10 billion (high end), then emissions would be 60GtCO2/yr, far lower than RCP85. ([Source](https://twitter.com/Peters_Glen/status/1209048300550283269?s=20))
+* If population grows to 10 billion (sort of high-end), & CO$_2$ per capita remains at 6tCO$_2$/person (a little higher than the long-term trend), then emissions would reach 60GtCO$_2$/yr. $RCP8.5$ >120GtCO₂/yr. ([Source](https://twitter.com/Peters_Glen/status/1209059892176334848?s=20))
 
 # Glossary
 
