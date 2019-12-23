@@ -56,6 +56,7 @@ knitr::opts_chunk$set(
 
 #### Roger Pielke Jr. 
 * [Opening Up the Climate Policy Envelope](https://issues.org/opening-up-the-climate-policy-envelope/)
+* [The Incredible Story Of How Climate Change Became Apocalyptic](https://www.forbes.com/sites/rogerpielke/2019/12/06/the-incredible-story-of-how-climate-change-became-apocalyptic/)
 * [In 2020 Climate Science Needs To Hit The Reset Button, Part One](https://www.forbes.com/sites/rogerpielke/2019/12/22/in-2020-climate-science-needs-to-hit-the-reset-button-part-one/#35415707482c)
 
 #### Zeke Haufather
