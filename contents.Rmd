@@ -26,6 +26,7 @@ knitr::opts_chunk$set(
 * [Justin Ritchie](https://twitter.com/jritch)
 * [Zeke Hausfather](https://twitter.com/hausfath)
 * [Richard Betts](https://twitter.com/richardabetts)
+* [Glen Peters](https://twitter.com/Peters_Glen)
 * [Pietro Monticone](https://twitter.com/PietroMonticone)
 * [Peter Jacobs](https://twitter.com/past_is_future)
 * [Ken Rice](https://twitter.com/theresphysics)
