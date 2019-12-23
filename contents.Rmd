@@ -53,13 +53,13 @@ knitr::opts_chunk$set(
 
 1. *Climate assessments should be well supported with robust communications and outreach resources*
 
+### Comments 
 
-HIGHLIGHT THE MOST CONTROVERSIAL!!! 
-
-By Auke: 
-* 3 simply becomes "RFP 8.5 is very unlikely." Which is clearer.
-* I think I have an important one to add: RCP 8.5 should never be used in any SSP but 5.
-* You could also reformulate 4: RCP 8.5 should not be used as a no policy baseline in SSP 5 and should never be used in SSP1-4.
+#### Auke Hoekstra
+> 
+* Reformulate 3. as "RCP8.5 is very unlikely" 
+* Add "RCP 8.5 should never be used in any SSPs but SSP5"
+* Reformulate 4. as "RCP 8.5 should not be used as a no policy baseline in SSP 5 and should never be used in SSP1-4"
 
 ## Glossary
 
