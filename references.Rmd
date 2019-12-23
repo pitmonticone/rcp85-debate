@@ -93,6 +93,9 @@ knitr::opts_chunk$set(
 #### Roger Pielke Jr. 
 * [Climate Science Needs a Reset](https://threadreaderapp.com/thread/1209118418827272197.html?refreshed=yes)
 
+#### Jonathan Foley
+* [New BAU](https://threadreaderapp.com/thread/1208496927400026112.html)
+
 
 ## Videos
 
