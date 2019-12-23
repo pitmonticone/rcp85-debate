@@ -74,6 +74,12 @@ knitr::opts_chunk$set(
 >
 * I tend to call it "high emissions scenario" in talks. I've always been uncomfortable with the fact that the actual impacts of climate change are neglected from the emissions scenarios from the IAMs - I can see why it's keeps the analysis simple, but surely it is inconsistent. ([Source](https://twitter.com/richardabetts/status/1207586161469927424?s=20))
 
+#### Peter Jacobs
+>
+* All of these can be true: 1. $RCP8.5$ narrative has too much fossil fuels ; 2. $8.5W/m^2$ by exactly 2100 no longer "BAU" ; c) current policy can get us within $RCP8.5$ levels of warming by 2100 or a few decades thereafter. ([Source](https://twitter.com/past_is_future/status/1208246363227598849?s=20))
+* I'm seeing a lot of people take points 1. and 2. and use them to argue explicitly/implicitly against 3. , which as far as I can tell is a violent misrepresentation of the evidence available. That doesn't mean we'll necessarily see that much warming! It's just not _precluded_ by current policy/trends. ([Source](https://twitter.com/past_is_future/status/1208247342098456577?s=20))
+
+
 #### Ken Rice 
 > 
 * From a climate modelling perspective, $RCPs$ are simply concentration, or forcing, pathways.  They can be used to investigate how the climate will respond to different changes in atmosphere CO$_2$ concentration (or forcing). ([Source](https://twitter.com/theresphysics/status/1209138892600938496?s=20))
