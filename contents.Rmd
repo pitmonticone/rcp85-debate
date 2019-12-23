@@ -50,8 +50,19 @@ knitr::opts_chunk$set(
 # Glossary
 
 * $BAU$: "Business-As-Usual"
+
 * $RF$: "Radiative Forcing"
+
 * $RCPX$: "Representative Concentration Pathway with $RF(2100)\approx X$"
+
+* $RCP8.5$: 
+
+     * Developed by the MESSAGE modeling team and the IIASA Integrated Assessment Framework at the International Institute for Applies Systems Analysis (IIASA), Austria. 
+     * Characterized by increasing greenhouse gas emissions over time representative for scenarios in the literature leading to high greenhouse gas concentration levels. 
+     * The underlying scenario drivers and resulting development path are based on the A2r scenario detailed in [Riahi et al. (2007)](https://www.sciencedirect.com/science/article/pii/S0040162506001387?via%3Dihub).
+
 * $SSP$: "Shared Socioeconomic Pathway"
+
 * $T$: "Temperature"
+
 * $U$: "Utility"
