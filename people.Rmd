@@ -38,3 +38,11 @@ knitr::opts_chunk$set(
 * [Ken Rice](https://twitter.com/theresphysics)
 
 * [Aaron Huertas](https://twitter.com/aaronhuertas)
+
+* [Sharanjit Paddam](https://twitter.com/sharanjit)
+
+* [Scott Denning](https://twitter.com/airscottdenning)
+
+* [David Wallace-Wells](https://twitter.com/dwallacewells)
+
+* [Stefan Rahmstorf](https://twitter.com/rahmstorf)
