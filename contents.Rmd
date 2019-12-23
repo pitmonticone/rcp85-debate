@@ -60,7 +60,13 @@ knitr::opts_chunk$set(
 
 #### Ken Caldeira 
 >
-* $RCP8.5$ is useful for understanding what might happen if emissions exceed current projections. Year 2100 CO2 emissions in RCP8.5 are abut 30 GtC/yr, about 3 times greater than in 2020. Year 2020 CO2 emissions will be nearly 8 times greater than  in 1940, 80 years ago.
+* $RCP8.5$ is useful for understanding what might happen if emissions exceed current projections. 
+* Year 2100 CO2 emissions in RCP8.5 are abut 30 GtC/yr, about 3 times greater than in 2020. Year 2020 CO2 emissions will be nearly 8 times greater than  in 1940, 80 years ago.
+
+#### Glen Peters 
+> 
+* $RCP8.5$ (& some other no policy baselines) require CO$_2$ emissions per capita to double by 2050 & triple by 2100, despite being flat for the last 50 years & only doubling since 1900. RCP8.5 is without historical precedent. 
+* Another way to put it, is that $RCP8.5$ assumes that coal grows faster than population. History shows that is rare. If emissions per capita remained at about 6, and population went to 10 billion (high end), then emissions would be 60GtCO2/yr, far lower than RCP85.
 
 # Glossary
 
