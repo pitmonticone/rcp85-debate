@@ -1,0 +1,40 @@
+---
+title: "The RCP8.5 People"
+author: " @PietroMonticone "
+date: "`r Sys.Date()`, #ClimateTwitter #EnergyTwitter"
+output:
+ prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+* [Auke Hoekstra](https://twitter.com/AukeHoekstra)
+
+* [Michael Liebreich](https://twitter.com/MLiebreich)
+
+* [Roger Pielke Jr.](https://twitter.com/RogerPielkeJr)
+
+* [Justin Ritchie](https://twitter.com/jritch)
+
+* [Zeke Hausfather](https://twitter.com/hausfath)
+
+* [Richard Betts](https://twitter.com/richardabetts)
+
+* [Glen Peters](https://twitter.com/Peters_Glen)
+
+* [Pietro Monticone](https://twitter.com/PietroMonticone)
+
+* [Peter Jacobs](https://twitter.com/past_is_future)
+
+* [Ken Rice](https://twitter.com/theresphysics)
+
+* [Aaron Huertas](https://twitter.com/aaronhuertas)
