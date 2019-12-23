@@ -76,12 +76,19 @@ knitr::opts_chunk$set(
 ### Data
 * [RCP Database](http://tntcat.iiasa.ac.at:8787/RcpDb/dsd?Action=htmlpage&page=about)
 * [SSP Database](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10)
+
 ### Reports 
 #### IPCC 
 * [SYR](https://www.ipcc.ch/report/ar5/syr/)
 * [WG1](https://www.ipcc.ch/report/ar5/wg1/)
 * [WG2](https://www.ipcc.ch/report/ar5/wg2/)
 * [WG3](https://www.ipcc.ch/report/ar5/wg3/)
+
+#### IEA 
+* [WEO](https://www.iea.org/reports/world-energy-outlook-2019)
+
+#### CAT 
+* [Methodology, Current Policy Projections](https://climateactiontracker.org/methodology/current-policy-projections/)
 
 #### AES
 * [Climate Scenario Report](https://s2.q4cdn.com/825052743/files/doc_downloads/2018/11/AES_Climate_Scenario_Report111318.pdf)
@@ -119,14 +126,23 @@ knitr::opts_chunk$set(
 * [We’re Getting a Clearer Picture of the Climate Future — and It’s Not as Bad as It Once Looked](http://nymag.com/intelligencer/2019/12/climate-change-worst-case-scenario-now-looks-unrealistic.html)
 
 
-### Twitter Threads 
+### Tweets & Threads
 
 #### Justin Ritchie 
-1. [IEA vs IPCC 1](https://threadreaderapp.com/thread/1196482571443425280.html)
-2. [IEA vs IPCC 2](https://threadreaderapp.com/thread/1199729350330839042.html?refreshed=yes)
-3. [IEA vs IPCC 3](https://threadreaderapp.com/thread/1204113683728592897.html)
+* [IEA vs IPCC 1](https://threadreaderapp.com/thread/1196482571443425280.html)
+* [IEA vs IPCC 2](https://threadreaderapp.com/thread/1199729350330839042.html?refreshed=yes)
+* [IEA vs IPCC 3](https://threadreaderapp.com/thread/1204113683728592897.html)
 
 #### Glen Peters
+* [New BAU](https://threadreaderapp.com/thread/1207583078543233024.html)
+* [RCP8.5 is without historical precedent](https://twitter.com/Peters_Glen/status/1209028367774814208)
+
+#### Zeke Hausfather 
+
+* [New BAU](https://threadreaderapp.com/thread/1207355805378342913.html)
+
+
+
 
 ### Videos
 
