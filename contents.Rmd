@@ -43,30 +43,38 @@ knitr::opts_chunk$set(
 
 #### Auke Hoekstra
 > 
-* Reformulate 3. as "RCP8.5 is very unlikely" 
-* Add "RCP 8.5 should never be used in any SSPs but SSP5"
-* Reformulate 4. as "RCP 8.5 should not be used as a no policy baseline in SSP 5 and should never be used in SSP1-4"
+* Reformulate 3. as "RCP8.5 is very unlikely" ([Source](https://twitter.com/AukeHoekstra/status/1209010954278756352?s=20))
+* Add "RCP 8.5 should never be used in any SSPs but SSP5" ([Source](https://twitter.com/AukeHoekstra/status/1209012725931794433?s=20))
+* Reformulate 4. as "RCP 8.5 should not be used as a no policy baseline in SSP 5 and should never be used in SSP1-4" ([Source](https://twitter.com/AukeHoekstra/status/1209012725931794433?s=20))
+
+#### Michael Liebreich
+>
+* Convene a research review, to look at all papers which use RCP8.5 explicitly or implicitly as BAU, or which compare it inappropriately with other SSPs. Triage into OK; needs new abstract and press release; must be withdrawn and corrected. And beer, we definitely gonna need beer! ([Source](https://twitter.com/MLiebreich/status/1207746005036351489?s=20))
+
+#### Stefan Rahmstorf
+>
+* I don’t know how common that misunderstanding was, though. I have always presented $RCP8.5$ as the upper end of the range of possible futures. $RCP8.5$ is widely considered very unlikely among climatologists because the economic collapse setting in way before 4 degrees C warming. ([Source](https://twitter.com/rahmstorf/status/1207570677647249409?s=20))
 
 #### Ken Rice 
 > 
-* From a climate modelling perspective, $RCPs$ are simply concentration, or forcing, pathways.  They can be used to investigate how the climate will respond to different changes in atmosphere CO$_2$ concentration (or forcing).
-* Clearly, it's also useful to develop socio-economic pathways that could lead to the various concentration/forcing pathways.  It's become more and more clear that it's very unlikely that we'll follow a $RCP8.5$ pathway (but the same is probably true for $RCP2.6$).
-* So, one might then say "climate models should only use pathways that we are likely to follow".  The problem is that there is a range of warming for each pathway (i.e., even along our current $BAU$ pathway, it is something like $1.9°C$ - $4.4°C$).
-* The sensitivity of a climate model is emergent (i.e., it's not easy to tune it).  Hence, if one wants to investigate the impact of, for example, $> 4°C$ of warming, one might need to force a climate model with a forcing pathway that is seen as being unrealistically high.
-* This doesn't mean that the modellers are assuming that this is a $BAU$ pathway, it simply means that the modellers are investigating the impact of high levels of warming which could happen if we continue along a $BAU$ pathway, but climate sensitivity turns out to be high end. 
-* That's essentially the point some are trying to make.  It may be very unlikely that we're going to follow an $RCP8.5$ forcing pathway, but since we can't rule out $> 4°C$ of warming along our current $BAU$ pathway, it may still be a useful pathway for climate impact studies. 
-*  Most research groups will typically use a single climate model, which will have a single climate sensitivity. However, we know that there is an uncertainty in climate senstivity.  Hence if a research group wants to investigate the high levels of warming that might occur under a $BAU$ pathway, they may need to force their model with a higher than BAU forcing pathway. The impacts depends on the temperature change, not directly on the change in forcing.
-* If we want to explore the impacts of $> 4°C$ with a model known to have a low climate sensitivity, then we may need to use a higher than $BAU$ forcing pathway.
+* From a climate modelling perspective, $RCPs$ are simply concentration, or forcing, pathways.  They can be used to investigate how the climate will respond to different changes in atmosphere CO$_2$ concentration (or forcing). ([Source](https://twitter.com/theresphysics/status/1209138892600938496?s=20))
+* Clearly, it's also useful to develop socio-economic pathways that could lead to the various concentration/forcing pathways.  It's become more and more clear that it's very unlikely that we'll follow a $RCP8.5$ pathway (but the same is probably true for $RCP2.6$). ([Source](https://twitter.com/theresphysics/status/1209139199846297600?s=20))
+* So, one might then say "climate models should only use pathways that we are likely to follow".  The problem is that there is a range of warming for each pathway (i.e., even along our current $BAU$ pathway, it is something like $1.9°C$ - $4.4°C$). ([Source](https://twitter.com/theresphysics/status/1209139509872537614?s=20))
+* The sensitivity of a climate model is emergent (i.e., it's not easy to tune it).  Hence, if one wants to investigate the impact of, for example, $> 4°C$ of warming, one might need to force a climate model with a forcing pathway that is seen as being unrealistically high. ([Source](https://twitter.com/theresphysics/status/1209139850449997824?s=20))
+* This doesn't mean that the modellers are assuming that this is a $BAU$ pathway, it simply means that the modellers are investigating the impact of high levels of warming which could happen if we continue along a $BAU$ pathway, but climate sensitivity turns out to be high end. ([Source](https://twitter.com/theresphysics/status/1209140319201169414?s=20))
+* That's essentially the point some are trying to make.  It may be very unlikely that we're going to follow an $RCP8.5$ forcing pathway, but since we can't rule out $> 4°C$ of warming along our current $BAU$ pathway, it may still be a useful pathway for climate impact studies. ([Source](https://twitter.com/theresphysics/status/1209140670318989313?s=20))
+*  Most research groups will typically use a single climate model, which will have a single climate sensitivity. However, we know that there is an uncertainty in climate senstivity.  Hence if a research group wants to investigate the high levels of warming that might occur under a $BAU$ pathway, they may need to force their model with a higher than BAU forcing pathway. The impacts depends on the temperature change, not directly on the change in forcing. ([Source](https://twitter.com/theresphysics/status/1209146817776148480?s=20))
+* If we want to explore the impacts of $> 4°C$ with a model known to have a low climate sensitivity, then we may need to use a higher than $BAU$ forcing pathway. ([Source](https://twitter.com/theresphysics/status/1209148009143033856?s=20))
 
 #### Ken Caldeira 
 >
 * $RCP8.5$ is useful for understanding what might happen if emissions exceed current projections. 
-* Year 2100 CO2 emissions in RCP8.5 are abut 30 GtC/yr, about 3 times greater than in 2020. Year 2020 CO2 emissions will be nearly 8 times greater than  in 1940, 80 years ago.
+* Year 2100 CO2 emissions in RCP8.5 are abut 30 GtC/yr, about 3 times greater than in 2020. Year 2020 CO2 emissions will be nearly 8 times greater than  in 1940, 80 years ago. ([Source](https://twitter.com/KenCaldeira/status/1209201769659527168?s=20))
 
 #### Glen Peters 
 > 
-* $RCP8.5$ (& some other no policy baselines) require CO$_2$ emissions per capita to double by 2050 & triple by 2100, despite being flat for the last 50 years & only doubling since 1900. RCP8.5 is without historical precedent. 
-* Another way to put it, is that $RCP8.5$ assumes that coal grows faster than population. History shows that is rare. If emissions per capita remained at about 6, and population went to 10 billion (high end), then emissions would be 60GtCO2/yr, far lower than RCP85.
+* $RCP8.5$ (& some other no policy baselines) require CO$_2$ emissions per capita to double by 2050 & triple by 2100, despite being flat for the last 50 years & only doubling since 1900. RCP8.5 is without historical precedent. ([Source](https://twitter.com/Peters_Glen/status/1209028367774814208?s=20))
+* Another way to put it, is that $RCP8.5$ assumes that coal grows faster than population. History shows that is rare. If emissions per capita remained at about 6, and population went to 10 billion (high end), then emissions would be 60GtCO2/yr, far lower than RCP85. ([Source](https://twitter.com/Peters_Glen/status/1209048300550283269?s=20))
 
 # Glossary
 
