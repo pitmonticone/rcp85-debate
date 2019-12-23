@@ -142,14 +142,24 @@ knitr::opts_chunk$set(
 * [New BAU](https://threadreaderapp.com/thread/1207355805378342913.html)
 
 
-
-
 ### Videos
 
-#### IAMC 2019
-* [Achievements & Needs for Climate Change Scenarios Framework | Brian O’Neill](https://www.youtube.com/watch?v=0oHcfcFCjrE&feature=youtu.be)
-
-#### Revisiting BAU & RCP8.5
 * [Revisiting Business-As-Usual | Justin Ritchie](https://youtu.be/HKK3GjI3_eE)
 * [Revisiting Worst-Case Climate Scenarios: Is RCP8.5 Still Plausible? | Justin Ritchie](https://youtu.be/w1YO95nXPVw)
+
+* [Achievements & Needs for Climate Change Scenarios Framework | Brian O’Neill at IAMC2019](https://www.youtube.com/watch?v=0oHcfcFCjrE&feature=youtu.be)
+
+* [Global Carbon Budget 2019: Emissions & Sinks | Glen Peters at COP25](https://youtu.be/ix83a2Y-9uI)
+* [Greenhouse Gases in the Atmosphere: Sources, Sinks and Climate Impact | IPCC-WMO at COP25](https://youtu.be/Jq8Arw6wfLA)
+* [The Global Carbon Budget & Remaining CO₂ Emissions at COP25](https://youtu.be/S3zioeFrF2A)
+* [The Carbon Bucket for 1.5°C](https://youtu.be/XcEyJqluMEU)
+* [Climate Extremes & Emissions Gap | euronews at COP25](https://youtu.be/ZY2Wmfqkw6k)
+
+* [The IPCC Sixth Assessment Report at COP25](https://youtu.be/D2QXlrcHxjw)
+
+* [Climate Tipping Points: What They Are & How To Avoid Them | Met Office at COP25](https://youtu.be/hIEO-5DiVqo)
+
+
+
+
 
