@@ -58,6 +58,10 @@ knitr::opts_chunk$set(
 *  Most research groups will typically use a single climate model, which will have a single climate sensitivity. However, we know that there is an uncertainty in climate senstivity.  Hence if a research group wants to investigate the high levels of warming that might occur under a $BAU$ pathway, they may need to force their model with a higher than BAU forcing pathway. The impacts depends on the temperature change, not directly on the change in forcing.
 * If we want to explore the impacts of $> 4°C$ with a model known to have a low climate sensitivity, then we may need to use a higher than $BAU$ forcing pathway.
 
+#### Ken Caldeira 
+>
+* $RCP8.5$ is useful for understanding what might happen if emissions exceed current projections. Year 2100 CO2 emissions in RCP8.5 are abut 30 GtC/yr, about 3 times greater than in 2020. Year 2020 CO2 emissions will be nearly 8 times greater than  in 1940, 80 years ago.
+
 # Glossary
 
 * $BAU$: "Business-As-Usual"
