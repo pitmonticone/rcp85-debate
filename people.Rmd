@@ -46,3 +46,5 @@ knitr::opts_chunk$set(
 * [David Wallace-Wells](https://twitter.com/dwallacewells)
 
 * [Stefan Rahmstorf](https://twitter.com/rahmstorf)
+
+* [Ken Caldeira](https://twitter.com/KenCaldeira)
