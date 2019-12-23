@@ -65,6 +65,9 @@ knitr::opts_chunk$set(
 * [Carbon Brief Explainer: How ‘Shared Socioeconomic Pathways’ explore future climate change](https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-future-climate-change)
 * [Carbon Brief Explainer: The high-emissions ‘RCP8.5’ global warming scenario](https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario)
 
+#### CICERO
+* [A Guide to Representative Concentration Pathways](https://www.cicero.oslo.no/en/posts/news/a-guide-to-representative-concentration-pathways)
+
 #### Zeke Haufather & Justin Ritchie 
 * [A 3C World Is Now “Business as Usual”](https://thebreakthrough.org/issues/energy/3c-world)
 
@@ -73,6 +76,7 @@ knitr::opts_chunk$set(
 
 #### David Wallace-Wells
 * [We’re Getting a Clearer Picture of the Climate Future — and It’s Not as Bad as It Once Looked](http://nymag.com/intelligencer/2019/12/climate-change-worst-case-scenario-now-looks-unrealistic.html)
+
 
 
 ## Tweets & Threads
