@@ -49,12 +49,14 @@ knitr::opts_chunk$set(
 
 #### Ken Rice 
 > 
-* From a climate modelling perspective, RCPs are simply concentration, or forcing, pathways.  They can be used to investigate how the climate will respond to different changes in atmosphere CO2 concentration (or forcing).
-* Clearly, it's also useful to develop socio-economic pathways that could lead to the various concentration/forcing pathways.  It's become more and more clear that it's very unlikely that we'll follow a RCP8.5 pathway (but the same is probably true for RCP2.6).
-* So, one might then say "climate models should only use pathways that we are likely to follow".  The problem is that there is a range of warming for each pathway (i.e., even along our current BAU pathway, it is something like 1.9C - 4.4C).
-* The sensitivity of a climate model is emergent (i.e., it's not easy to tune it).  Hence, if one wants to investigate the impact of, for example, >4C of warming, one might need to force a climate model with a forcing pathway that is seen as being unrealistically high.
-* This doesn't mean that the modellers are assuming that this is a BAU pathway, it simply means that the modellers are investigating the impact of high levels of warming which could happen if we continue along a BAU pathway, but climate sensitivity turns out to be high end. 
-* That's essentially the point some are trying to make.  It may be very unlikely that we're going to follow an RCP8.5 forcing pathway, but since we can't rule out >4C of warming along our current BAU pathway, it may still be a useful pathway for climate impact studies. 
+* From a climate modelling perspective, $RCPs$ are simply concentration, or forcing, pathways.  They can be used to investigate how the climate will respond to different changes in atmosphere CO$_2$ concentration (or forcing).
+* Clearly, it's also useful to develop socio-economic pathways that could lead to the various concentration/forcing pathways.  It's become more and more clear that it's very unlikely that we'll follow a $RCP8.5$ pathway (but the same is probably true for $RCP2.6$).
+* So, one might then say "climate models should only use pathways that we are likely to follow".  The problem is that there is a range of warming for each pathway (i.e., even along our current $BAU$ pathway, it is something like $1.9°C$ - $4.4°C$).
+* The sensitivity of a climate model is emergent (i.e., it's not easy to tune it).  Hence, if one wants to investigate the impact of, for example, $> 4°C$ of warming, one might need to force a climate model with a forcing pathway that is seen as being unrealistically high.
+* This doesn't mean that the modellers are assuming that this is a $BAU$ pathway, it simply means that the modellers are investigating the impact of high levels of warming which could happen if we continue along a $BAU$ pathway, but climate sensitivity turns out to be high end. 
+* That's essentially the point some are trying to make.  It may be very unlikely that we're going to follow an $RCP8.5$ forcing pathway, but since we can't rule out $> 4°C$ of warming along our current $BAU$ pathway, it may still be a useful pathway for climate impact studies. 
+*  Most research groups will typically use a single climate model, which will have a single climate sensitivity. However, we know that there is an uncertainty in climate senstivity.  Hence if a research group wants to investigate the high levels of warming that might occur under a $BAU$ pathway, they may need to force their model with a higher than BAU forcing pathway. The impacts depends on the temperature change, not directly on the change in forcing.
+* If we want to explore the impacts of $> 4°C$ with a model known to have a low climate sensitivity, then we may need to use a higher than $BAU$ forcing pathway.
 
 # Glossary
 
