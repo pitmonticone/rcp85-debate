@@ -142,6 +142,9 @@ knitr::opts_chunk$set(
 
 * [New BAU](https://threadreaderapp.com/thread/1207355805378342913.html)
 
+#### Roger Pielke Jr. 
+* [Climate Science Needs a Reset](https://threadreaderapp.com/thread/1209118418827272197.html?refreshed=yes)
+
 
 ### Videos
 
