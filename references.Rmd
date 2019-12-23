@@ -83,7 +83,8 @@ knitr::opts_chunk$set(
 #### David Wallace-Wells
 * [We’re Getting a Clearer Picture of the Climate Future — and It’s Not as Bad as It Once Looked](http://nymag.com/intelligencer/2019/12/climate-change-worst-case-scenario-now-looks-unrealistic.html)
 
-
+#### Noah Smith 
+* [Worst Case for Climate Change Doesn’t Look Realistic](https://www.bloomberg.com/opinion/articles/2019-12-23/worst-case-for-climate-change-doesn-t-look-realistic)
 
 ## Tweets & Threads
 
