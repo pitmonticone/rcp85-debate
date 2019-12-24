@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 * [RCP Database](http://tntcat.iiasa.ac.at:8787/RcpDb/dsd?Action=htmlpage&page=about)
 * [SSP Database](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10)
 
-## Reports 
+## Reports & Presentations
 #### IPCC 
 * [SYR](https://www.ipcc.ch/report/ar5/syr/)
 * [WG1](https://www.ipcc.ch/report/ar5/wg1/)
@@ -37,6 +37,9 @@ knitr::opts_chunk$set(
 #### AES
 * [Climate Scenario Report](https://s2.q4cdn.com/825052743/files/doc_downloads/2018/11/AES_Climate_Scenario_Report111318.pdf)
 
+#### NCAR
+* [The Road Ahead: SSP Narratives | Bas van Ruijven](https://www.iiasa.ac.at/web/home/about/events/7.SSPNarratives_IIASA_BvR.pdf)
+
 ####  Forum on Scenarios of Climate and Societal Futures: Meeting Report
 * [Pardee Center Working Paper, University of Denver](https://pardee.du.edu/sites/default/files/Scenarios%20Forum%20Meeting%20Report%204oct19.pdf)
 
@@ -48,7 +51,10 @@ knitr::opts_chunk$set(
 * **2011** [RCP 8.5: A scenario of comparatively high greenhouse gas emissions](https://link.springer.com/article/10.1007/s10584-011-0149-y)
 
 #### Detlef P. van Vuuren et al. 
-* **2011** [The Representative Concentration Pathways: An Overview](https://link.springer.com/article/10.1007/s10584-011-0148-z)
+* **2011** [The Representative Concentration Pathways: An Overview, Climatic Change](https://link.springer.com/article/10.1007/s10584-011-0148-z)
+
+#### Brian C. O’Neill et al.
+* **2014** [A New Scenario Framework For Climate Change Research: The Concept of Shared Socioeconomic Pathways, Climatic Change](https://link.springer.com/article/10.1007%2Fs10584-013-0905-2)
 
 #### Nico Bauer et al. 
 * **2017** [Shared Socio-Economic Pathways of the Energy Sector: Quantifying the Narratives, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016301224)
@@ -56,8 +62,7 @@ knitr::opts_chunk$set(
 #### Alexander Popp et al. 
 * **2017** [Land-use Futures in The Shared Socio-Economic Pathways, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016303399)
 
-
-#### Justin Ritchie 
+#### Justin Ritchie et al.
 * **2017** [Why do climate change scenarios return to coal?, Energy, ](https://www.sciencedirect.com/science/article/abs/pii/S0360544217314597)
 * **2017** [The 1000 GtC coal question: Are cases of vastly expanded future coal combustion still plausible?, Energy Economics](https://www.sciencedirect.com/science/article/pii/S0140988317301226)
 * **2018** [Defining climate change scenario characteristics with a phase space of cumulative primary energy and carbon intensity, Environmental Research Letters, Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aaa494)
@@ -77,6 +82,7 @@ knitr::opts_chunk$set(
 #### Zeke Haufather
 * [Carbon Brief Explainer: How ‘Shared Socioeconomic Pathways’ explore future climate change](https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-future-climate-change)
 * [Carbon Brief Explainer: The high-emissions ‘RCP8.5’ global warming scenario](https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario)
+* [Carbon Brief Explainer: How scientists estimate ‘climate sensitivity’](https://www.carbonbrief.org/explainer-how-scientists-estimate-climate-sensitivity)
 
 #### CICERO
 * [A Guide to Representative Concentration Pathways](https://www.cicero.oslo.no/en/posts/news/a-guide-to-representative-concentration-pathways)
@@ -106,10 +112,12 @@ knitr::opts_chunk$set(
 #### Glen Peters
 * [New BAU](https://threadreaderapp.com/thread/1207583078543233024.html)
 * [RCP8.5 is without historical precedent](https://twitter.com/Peters_Glen/status/1209028367774814208)
+* [SSPs, RCP8.5 and Climate Impacts](https://threadreaderapp.com/thread/1209387352013103106.html?refreshed=yes)
 
 #### Zeke Hausfather 
 
-* [New BAU](https://threadreaderapp.com/thread/1207355805378342913.html)
+* [New BAU 1](https://threadreaderapp.com/thread/1207355805378342913.html)
+* [New BAU 2](https://threadreaderapp.com/thread/1209172698657509376.html)
 
 #### Roger Pielke Jr. 
 * [Climate Science Needs a Reset](https://threadreaderapp.com/thread/1209118418827272197.html?refreshed=yes)

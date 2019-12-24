@@ -52,3 +52,5 @@ knitr::opts_chunk$set(
 * [Judith Curry](https://twitter.com/curryja)
 
 * [Jonathan Foley](https://twitter.com/GlobalEcoGuy)
+
+* [Edwards Byers](https://twitter.com/EdwardByers)
