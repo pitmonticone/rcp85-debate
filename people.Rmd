@@ -53,4 +53,6 @@ knitr::opts_chunk$set(
 
 * [Jonathan Foley](https://twitter.com/GlobalEcoGuy)
 
+* [Chris Parker](https://twitter.com/HyperHydr0)
+
 * [Edwards Byers](https://twitter.com/EdwardByers)

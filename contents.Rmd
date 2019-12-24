@@ -43,15 +43,36 @@ knitr::opts_chunk$set(
 
 #### Pietro Monticone 
 >
+* When I find a little more time I'll try my best. At the moment with a very simple CMIP3-C4MIP (IPCC AR4) scenario exploration ( ECS $\in$ [3,4] ; CCF $\in$ {1,2} ) I've not been able to reach neither $8.5W/{m^2}$ nor 5°C starting from RCP6 assumptions. ([Source](https://twitter.com/PietroMonticone/status/1204848964660584452?s=20))
+* The climate problem is full of intricacies and  counterintuitive features, but I find pretty hard to understand how even something as basic as reference/baseline/no-policy/no-additional-mitigation scenarios could become such a hot topic. ([Source](https://twitter.com/PietroMonticone/status/1207669885108703233?s=20))
+* [This](https://twitter.com/PietroMonticone/status/1207689764029243392?s=20) is the only serious, practical problem worth discussing. ([Source](https://twitter.com/PietroMonticone/status/1207703612476002305?s=20))
+* Hard to disagree with [Roger's] "impacts and mitigation should not be compared in this way, since the scenarios represent different worlds". See [RCP Overview](https://link.springer.com/article/10.1007/s10584-011-0148-z) and [RCP Database](https://t.co/2rWCKS1BZk?amp=1)
+* [Title](https://pbs.twimg.com/media/EMPwjWiW4AAfxTH?format=jpg&name=large) with "under high end climate change scenarios"; [Abstract](https://pbs.twimg.com/media/EMPwjWrWkAEqac0?format=jpg&name=large) with ["under high end climate change scenarios"](https://pbs.twimg.com/media/EMPwjWlXYAAb8KA?format=png&name=900x900); Quote marks for BAU; Super cool physics all over the place; High epistemic relevance, maybe less policy-relevance. Nothing embarassing here, just great science. ([Source](https://twitter.com/PietroMonticone/status/1208073635082260481?s=20))
 * I strongly believe we should try to condense what really matters in a bunch of clear, accurate points of convergence. Otherwise it would be extremely hard to see what we could possibly mean by progress in this conversation. ([Source](https://twitter.com/PietroMonticone/status/1208542046895693825?s=20))
 * I'll try to include that in a quasi-formal suit of clear, unambiguous propositions in order to minimize misinterpretations, foster productive discussion and eventually policy-relevant convergence. ([Source](https://twitter.com/PietroMonticone/status/1208779678393262082?s=20))
+* "RCP8.5≠BAU" might not be so irrelevant for amelioration impact literature (e.g. [solar geoengineering](https://t.co/VQXnsunJq3?amp=1)). ([Source](https://twitter.com/PietroMonticone/status/1208434906868654081?s=20))
+
+#### Zeke Hausfather 
+>
+* [We ough to] communicate better about the role (and relative likelihood) of different scenarios. I think in the last year there has been a lot of progress on this (annoyingly endless twitter arguments notwithstanding). ([Source](https://twitter.com/hausfath/status/1207723770074451968?s=20))
+* The design of the SSPs in theory makes it easier to compare across scenarios (since you have multiple mitigation pathways using the same SSP). In practice, since the CMIP6 scenarios pick different SSPs for each pathway (except SSP1 which gets 1.9 and 2.6) this is challenging. ([Source](https://twitter.com/hausfath/status/1207722585422589952?s=20))
+* You can compare scenarios across different SSPs as long as you account for their different socioeconomic drivers (population, GDP, assumptions around technology innovation/transfer, etc.). ([Source](https://twitter.com/hausfath/status/1207728266749992963?s=20))
+
 
 #### Auke Hoekstra
 > 
+* I have the impression there are many in the climate community that resist the idea of expressing relative probabilities. Am I wrong? Is this changing? ([Source](https://twitter.com/AukeHoekstra/status/1207743057493471232?s=20))
 * Reformulate 3. as "RCP8.5 is very unlikely" ([Source](https://twitter.com/AukeHoekstra/status/1209010954278756352?s=20))
 * Add "RCP 8.5 should never be used in any SSPs but SSP5" ([Source](https://twitter.com/AukeHoekstra/status/1209012725931794433?s=20))
 * Reformulate 4. as "RCP 8.5 should not be used as a no policy baseline in SSP 5 and should never be used in SSP1-4" ([Source](https://twitter.com/AukeHoekstra/status/1209012725931794433?s=20))
 * Bottom line for me: let's stop trying to create fights where they are not useful and let's start to think how we can give AR6 more papers with a realistic BAU so AR6 gives policy makers a good grasp of what can be achieved by mitigation. ([Source](https://twitter.com/AukeHoekstra/status/1209004859476905985?s=20))
+* As long as climate scientists are aware they don't know very much of the energy system and accept predictions of people who do and label their energy inputs accordingly all is fine. Or should energy people start picking forcings they like because climate predictions are unsure? ([Source](https://twitter.com/AukeHoekstra/status/1209404521224572928?s=20))
+* And since most people accept AGC by now and sensitivities haven't changed much (1.5-4.5 per doubling of CO2) the focus should now shift to energy systems I think. Simply extending them with sensitivities gives policy makers the temperature increase for each energy scenario. ([Source](https://twitter.com/AukeHoekstra/status/1209406950322196480?s=20))
+* That way climate scientists can run any scenario they like without having to worry someone will question how likely or unlikely that is because that is now a question you can answer by running energy models. Also more interesting for policy makers since there they can influence. ([Source](https://twitter.com/AukeHoekstra/status/1209407502326087681?s=20))
+* Looking at climate scientists to answer the question of "how much global warming will we get?" is outdated. That question must be answered by people making predictions about how much fuel we will burn and what food we will eat. That's my take away of this discussion. ([Source](https://twitter.com/AukeHoekstra/status/1209409306061344768?s=20))
+* I wish climate scientist would stop giving opinions about the energy system when they know so little about it. The energy system is changing so you can't use past technology and emissions and project into the future. Also people want wealth, not carbon credits. ([Source](https://twitter.com/AukeHoekstra/status/1209505189507543040?s=20))
+* You saw the [emissions per person](https://pbs.twimg.com/media/EMbLhlvWsAE0URn?format=jpg&name=large) of Peters? There really is no plausible scenario to 8.5 emissions that would be taken seriously in the energy community. For reasons unclear to me that is an unpopular message but it's true nontheless. For me it's a huge Christmas present. ([Source](https://twitter.com/AukeHoekstra/status/1209500195806990336?s=20)
+
 
 #### Michael Liebreich
 >
@@ -61,10 +82,12 @@ knitr::opts_chunk$set(
 #### Justin Ritchie 
 >
 * From my perspective, the issue with the RCP design was that it had been well known in previous decades that if there is no BAU, then people will look for a BAU, and therefore we have to be explicit about that because otherwise people use implicit clues to guide them. ([Source](https://twitter.com/jritch/status/1207671030027825152?s=20))
+* If we had a truly fresh start creating climate scenarios without any previous anchors, would we still select RCP8.5 as an end point? Or would there still be a fight to justify? A big part of the resistance here must be all the inertia created by 1000s of papers in the literature. ([Source](https://twitter.com/jritch/status/1209526698636652544?s=20))
 
 #### Roger Pielke Jr. 
 >
 * One big problem with $BAU$ is it’s use in $CBA$. Consider if we were to take Zeke & Justin analysis seriously & simply plug it into USNCA, the benefits of mitigation would be zero (obviously wrong). Due to fact that NCA calculated such benefits as impacts avoided/reduced = $BAU$ - $RCP4.5$ . ([Source](https://twitter.com/RogerPielkeJr/status/1207700090439131136?s=20))
+* Comparisons across mitigation pathways within particular a SSP makes sense, once you make the leap to comparing across different SSPs things get problematic. ([Source](https://twitter.com/RogerPielkeJr/status/1207723575207063559?s=20))
 * The claimed policy relevance of RCP8.5 is not a good argument for its role in IPCC. Maybe it is interesting scientifically, but don’t base claims of its relevance on “plausibility”. ([Source](https://twitter.com/RogerPielkeJr/status/1209288832794808320?s=20))
 
 #### Stefan Rahmstorf
@@ -91,6 +114,9 @@ knitr::opts_chunk$set(
 
 #### Ken Rice 
 > 
+* I think everyone now agrees that RCP8.5 isn't a business as usual scenario.  It seems clear that our future emission pathway is unlikely to be consistent with an RCP8.5 concentration pathway. ([Source](https://twitter.com/theresphysics/status/1207671228116455424?s=20))
+* Beyond that I'm not entirely sure what the issues are.  Some seem to object to the use of "business as usual" in any context. Some seem to object to the use of RCP8.5 in any circumstance. Some seem to think the IPCC reports said things they didn't actually say. ([Source](https://twitter.com/theresphysics/status/1207671522472681472?s=20))
+* FWIW, as far as I can tell, when the RCPs were first introduced, it may well have been reasonable to use RCP8.5 as a BAU scenario.  This no longer seems to be suitable.  We can't change the past, though. ([Source](https://twitter.com/theresphysics/status/1207671895992213505?s=20))
 * From a climate modelling perspective, $RCPs$ are simply concentration, or forcing, pathways.  They can be used to investigate how the climate will respond to different changes in atmosphere CO$_2$ concentration (or forcing). ([Source](https://twitter.com/theresphysics/status/1209138892600938496?s=20))
 * Clearly, it's also useful to develop socio-economic pathways that could lead to the various concentration/forcing pathways.  It's become more and more clear that it's very unlikely that we'll follow a $RCP8.5$ pathway (but the same is probably true for $RCP2.6$). ([Source](https://twitter.com/theresphysics/status/1209139199846297600?s=20))
 * So, one might then say "climate models should only use pathways that we are likely to follow".  The problem is that there is a range of warming for each pathway (i.e., even along our current $BAU$ pathway, it is something like $1.9°C$ - $4.4°C$). ([Source](https://twitter.com/theresphysics/status/1209139509872537614?s=20))
@@ -118,8 +144,7 @@ knitr::opts_chunk$set(
 * If population grows to 10 billion (sort of high-end), & CO$_2$ per capita remains at 6tCO$_2$/person (a little higher than the long-term trend), then emissions would reach 60GtCO$_2$/yr. $RCP8.5$ >120GtCO₂/yr. ([Source](https://twitter.com/Peters_Glen/status/1209059892176334848?s=20))
 * To believe #RCP85 you need: world that prioritises fossil fuels; zero climate policy to 2100; zero climate impacts to 2100. See [here](https://t.co/1qPPw6ZTqT?amp=1) ([Source](https://twitter.com/Peters_Glen/status/1209387352013103106?s=20))
 * There are many good things about SSPs. But, there are also weaknesses. The biggest issue is one of communication. Integrated Assessment Modellers know this stuff inside out, but very few know the specifics. And, I would argue, this is why there are perceived "black boxes", etc. ([Source](https://twitter.com/Peters_Glen/status/1209405058720444417?s=20))
-* SSP framework has advantages and disadvantages, I am happy to acknowledge both, and I happy to use (and do) the framework knowing the issues.
-* I think RCP85 is infeasible and for a variety of reasons __I__ would not use it (or use in very restrictive contexts).
+* SSP framework has advantages and disadvantages, I am happy to acknowledge both, and I happy to use (and do) the framework knowing the issues. I think RCP85 is infeasible and for a variety of reasons __I__ would not use it (or use in very restrictive contexts). ([Source](https://twitter.com/Peters_Glen/status/1209461444703670273?s=20))
 
 #### Edwards Byers
 >
