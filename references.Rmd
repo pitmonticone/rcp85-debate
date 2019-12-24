@@ -118,12 +118,15 @@ knitr::opts_chunk$set(
 * [SSPs, RCP8.5 and Climate Impacts](https://threadreaderapp.com/thread/1209387352013103106.html?refreshed=yes)
 
 #### Zeke Hausfather 
-
+* [RCP8.5 vs. BAU](https://threadreaderapp.com/thread/1164189973664264192.html?refreshed=yes)
 * [New BAU 1](https://threadreaderapp.com/thread/1207355805378342913.html)
 * [New BAU 2](https://threadreaderapp.com/thread/1209172698657509376.html)
 
 #### Roger Pielke Jr. 
 * [Climate Science Needs a Reset](https://threadreaderapp.com/thread/1209118418827272197.html?refreshed=yes)
+* [Climate Scenario Popularity 1](https://threadreaderapp.com/thread/1204087486697234432.html)
+* [Climate Scenario Popularity 2](https://threadreaderapp.com/thread/1204497767659261952.html)
+
 
 #### Jonathan Foley
 * [New BAU](https://threadreaderapp.com/thread/1208496927400026112.html)
