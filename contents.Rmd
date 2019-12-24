@@ -77,6 +77,8 @@ knitr::opts_chunk$set(
 * Note that emissions don't need to reach 30 GtC/yr to give RCP8.5 concentrations. If you account for climate-carbon cycle feedbacks, RCP8.5 CO$_2$ concentrations could result from emissions reaching only 20 GtC/yr by 2100 - just double 2019 emissions. See [here](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-12-00554.1). ([Source](https://twitter.com/richardabetts/status/1209270771572518913?s=20))
 * CO$_2$ emissions of 20 GtC/yr by 2100 are not much higher than the upper end of range of  [Hausfather](https://twitter.com/hausfath)'s extended IEA estimates, which is 18.27 GtC. This is 67 GtCO2/yr: convert using $1 GtC = 1 Gt CO2 \times \frac{12}{44}$, ratio of mass of C atom to mass of CO2 molecule. ([Source](https://twitter.com/richardabetts/status/1209274492008181761?s=20))
 * I'm not trying to justify RCP8.5 as BAU. I'm just showing that it's not an implausible scenario, and therefore worth looking at. ([Source](https://twitter.com/richardabetts/status/1209279700792729601?s=20))
+* We avoid using the term "predictions". Climate projections can be viewed as exploring various _what-if_ scenarios. For example, if everyone on the planet emitted the same as the average American (4.43 tC), that's 34 GtC / yr - above the standard RCP8.5 emissions. See [here](https://cdiac.ess-dive.lbl.gov/trends/emis/top2014.cap). ([Source](https://twitter.com/richardabetts/status/1209416567882162176?s=20))
+* Of course that doesn't automatically mean that this is actually possible - but that then raises another angle of the debate, on equity. So one interpretation of RCP8.5 is that it illustrates the climate consequences of an "Everyone emits CO2 like the average American" world. ([Source](https://twitter.com/richardabetts/status/1209417281723387904?s=20))
 
 #### Peter Jacobs
 >
@@ -116,6 +118,8 @@ knitr::opts_chunk$set(
 * If population grows to 10 billion (sort of high-end), & CO$_2$ per capita remains at 6tCO$_2$/person (a little higher than the long-term trend), then emissions would reach 60GtCO$_2$/yr. $RCP8.5$ >120GtCO₂/yr. ([Source](https://twitter.com/Peters_Glen/status/1209059892176334848?s=20))
 * To believe #RCP85 you need: world that prioritises fossil fuels; zero climate policy to 2100; zero climate impacts to 2100. See [here](https://t.co/1qPPw6ZTqT?amp=1) ([Source](https://twitter.com/Peters_Glen/status/1209387352013103106?s=20))
 * There are many good things about SSPs. But, there are also weaknesses. The biggest issue is one of communication. Integrated Assessment Modellers know this stuff inside out, but very few know the specifics. And, I would argue, this is why there are perceived "black boxes", etc. ([Source](https://twitter.com/Peters_Glen/status/1209405058720444417?s=20))
+* SSP framework has advantages and disadvantages, I am happy to acknowledge both, and I happy to use (and do) the framework knowing the issues.
+* I think RCP85 is infeasible and for a variety of reasons __I__ would not use it (or use in very restrictive contexts).
 
 #### Edwards Byers
 >
