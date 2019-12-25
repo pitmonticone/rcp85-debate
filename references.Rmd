@@ -135,7 +135,6 @@ knitr::opts_chunk$set(
 * [New BAU](https://threadreaderapp.com/thread/1208845752769941510.html)
 
 
-
 ## Videos
 
 * [Revisiting Business-As-Usual | Justin Ritchie](https://youtu.be/HKK3GjI3_eE)

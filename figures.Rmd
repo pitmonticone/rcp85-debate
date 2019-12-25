@@ -73,20 +73,81 @@ knitr::opts_chunk$set(
 
 ![[Source](https://twitter.com/jritch/status/1208393733395427328?s=20)](https://pbs.twimg.com/media/EMUTrx-XYAI1QFZ?format=png&name=4096x4096)
 
-
-
 # Zeke Hausfather
 
-![Source](https://pbs.twimg.com/media/EMIyZ5XXYAAFxum?format=jpg&name=large)
+![[Source](https://twitter.com/hausfath/status/1208136435334701056?s=20)](https://pbs.twimg.com/media/EMQprz4UEAA2j7k?format=png&name=900x900)
+
+![[Source](https://twitter.com/hausfath/status/1196503375660998661?s=20)](https://pbs.twimg.com/media/EJrVeoXUEAE-iip?format=png&name=900x900)
+
+![[Source](https://twitter.com/hausfath/status/1196505775763406848?s=20)](https://pbs.twimg.com/media/EJrXqNOVAAA6Rn2?format=jpg&name=4096x4096)
+
+![[Source](https://twitter.com/hausfath/status/1197654867826708480?s=20)](https://pbs.twimg.com/media/EJ7swUdU0AEzrWU?format=png&name=900x900)
+
+![[Source](https://twitter.com/hausfath/status/1208135734604914688?s=20)](https://pbs.twimg.com/media/EMQpDBFU4AAL-Vo?format=png&name=900x900)
+
+![[Source](https://twitter.com/hausfath/status/1197672226805280768?s=20)](https://pbs.twimg.com/media/EJ78hhRU0AAhsRS?format=png&name=900x900)
+
+![[Source](https://twitter.com/hausfath/status/1197673185082138624?s=20)](https://pbs.twimg.com/media/EJ79ae-U4AE8qjs?format=jpg&name=medium)
+
+![[Source](https://twitter.com/hausfath/status/1197940866276450304?s=20)](https://pbs.twimg.com/media/EJ_w3c8UYAAUGop?format=jpg&name=medium)
+
+![[Source](https://twitter.com/hausfath/status/1201411945972129792?s=20)](https://pbs.twimg.com/media/EKxFy82UwAEpXl4?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1201411968998899712?s=20)](https://pbs.twimg.com/media/EKxF0SnUwAETZhM?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1201411974573092864?s=20)](https://pbs.twimg.com/media/EKxF0nqUUAAk5l7?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1201411980155731968?s=20)](https://pbs.twimg.com/media/EKxF0_QU4AAwXpz?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1201411986338140161?s=20)](https://pbs.twimg.com/media/EKxF1VgUcAAkVS7?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1209175190485102592?s=20)](https://pbs.twimg.com/media/EMfaa64U8AADJ5I?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1209175190485102592?s=20)](https://pbs.twimg.com/media/EMfaa65VAAAvuOt?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1209177799564546048?s=20)](https://pbs.twimg.com/media/EMfcy4lUcAA_po2?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1201600354305167367?s=20)](https://pbs.twimg.com/media/EKzxJqQXkAA4kkr?format=jpg&name=medium)
+
+![[Source](https://twitter.com/hausfath/status/1201583339326623744?s=20)](https://pbs.twimg.com/media/EKzhrMkXkAAhQqb?format=jpg&name=4096x4096)
+
+![[Source](https://twitter.com/hausfath/status/1202022646008778752?s=20)](https://pbs.twimg.com/media/EK5xOdmVUAAGMVo?format=jpg&name=medium)
+
+![[Source](https://twitter.com/hausfath/status/1202022650144378880?s=20)](https://pbs.twimg.com/media/EK5xOrWU0AA6d8h?format=jpg&name=medium)
+
+![[Source](https://twitter.com/hausfath/status/1205218792164360192?s=20)](https://pbs.twimg.com/media/ELnMGh-UEAEbQqX?format=jpg&name=4096x4096)
+
+![[Source](https://twitter.com/hausfath/status/1207355810067574784?s=20)](https://pbs.twimg.com/media/EMFjtY9UwAI35ii?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1207355821639659520?s=20)](https://pbs.twimg.com/media/EMFjuDVU4AAzXEp?format=jpg&name=4096x4096)
+
+![[Source](https://twitter.com/hausfath/status/1207355816124112896?s=200)](https://pbs.twimg.com/media/EMFjtufUwAER21a?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1207355827641733121?s=20)](https://pbs.twimg.com/media/EMFjuYNUEAANFpR?format=jpg&name=4096x4096)
+
+![[Source](https://twitter.com/hausfath/status/1207355833299812353?s=20)](https://pbs.twimg.com/media/EMFjuwQUUAAQfHo?format=jpg&name=large)
+
+![[Source](https://twitter.com/hausfath/status/1208063051355705344?s=20)](https://pbs.twimg.com/media/EMPm8S7U0AI26fM?format=jpg&name=medium)
 
 # Richard Betts
 
 ![[Source](https://twitter.com/richardabetts/status/1207002950830346241?s=20)](https://pbs.twimg.com/media/EMAiyBRXsAEcvj1?format=jpg&name=large)
 
-# Michael Liebreich
-![[Source](https://twitter.com/MLiebreich/status/1207246132201566209?s=20)](https://pbs.twimg.com/media/EMD_9JMXkAAJH2E?format=jpg&name=small)
+![[Source](https://twitter.com/richardabetts/status/1208051150202851328?s=20)](https://pbs.twimg.com/media/EMPcHaGXkAE4BVr?format=jpg&name=large)
 
-![[Source](https://twitter.com/MLiebreich/status/1207645461139664898?s=20)](https://pbs.twimg.com/media/EMJrJZpW4AAF8FM?format=jpg&name=medium)
+![[Source](https://twitter.com/richardabetts/status/1208058049467965442?s=20)](https://pbs.twimg.com/media/EMPiZCGXUAAmxYp?format=png&name=small)
+
+![[Source](https://twitter.com/richardabetts/status/1208064739928092672?s=20)](https://pbs.twimg.com/media/EMPiZCGXUAAmxYp?format=png&name=small)
+
+![[Source](https://twitter.com/richardabetts/status/1208102904059576320?s=20)](https://pbs.twimg.com/media/EMPoegbXUAUJV21?format=jpg&name=small)
+
+![[Source](https://twitter.com/richardabetts/status/1208064739928092672?s=20)](https://pbs.twimg.com/media/EMQLL33WoAAMBpz?format=png&name=900x900)
+
+![[Source](https://twitter.com/richardabetts/status/1209279094216630278?s=20)](https://pbs.twimg.com/media/EMg47EcXkAAuPqF?format=jpg&name=large)
+
+# Roger Pielke Jr. 
+
+# Michael Liebreich
 
 # Pietro Monticone 
 ![[Source](https://twitter.com/PietroMonticone/status/1204848964660584452?s=20)](https://pbs.twimg.com/media/ELh7vACXUAA2lLg?format=jpg&name=large)
