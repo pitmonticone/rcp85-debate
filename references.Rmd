@@ -46,6 +46,9 @@ knitr::opts_chunk$set(
 #### Michael Liebreich
 * [Climate Wars Episode IV – a New Hope for the 2020s?](https://about.bnef.com/blog/in-climate-wars-episode-4-the-2020s-will-bring-new-hope/)
 
+#### Aaron Huertas
+* [Your Hot Take on Climate Models Is Just Another Political Opinion and That’s Okay](https://medium.com/@aaronhuertas/your-hot-take-on-climate-models-is-just-another-political-opinion-and-thats-okay-153bd249e87)
+
 #### David Wallace-Wells
 * [We’re Getting a Clearer Picture of the Climate Future — and It’s Not as Bad as It Once Looked](http://nymag.com/intelligencer/2019/12/climate-change-worst-case-scenario-now-looks-unrealistic.html)
 
