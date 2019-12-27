@@ -228,12 +228,7 @@ knitr::opts_chunk$set(
 
 ### Framework
 
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
-
-# ![[van Vuuren et al., 2016](https://www.sciencedirect.com/science/article/abs/pii/S0959378016301790)](images/ssp-trajectories/trajectories-fig0.png)
-
-```
-
+![[van Vuuren et al., 2016](https://www.sciencedirect.com/science/article/abs/pii/S0959378016301790)](images/ssp-trajectories/trajectories-fig0.png)
 
 ![[O'Neill et al., 2016](https://www.sciencedirect.com/science/article/abs/pii/S0959378015000060?via%3Dihub)](images/ssp-narratives/narratives-tab1.png)
 
@@ -252,11 +247,34 @@ knitr::opts_chunk$set(
 
 ```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
 
-### Energy, Land use, and Greenhouse Gas Emissions Implications
-
 ### The Energy Sector 
 
 ```
+
+### Energy, Land use, and Greenhouse Gas Emissions Implications
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr1_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](images/ssp-enlughg/enlughg-tab1.png)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](images/ssp-enlughg/enlughg-tab2.png)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](images/ssp-enlughg/enlughg-tab3.png)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr2_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr3_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr4_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr5_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr6_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr7_lrg.jpg)
+
+![[Riahi et al., 2016](https://www.sciencedirect.com/science/article/pii/S0959378016300681#fig0005)](https://ars.els-cdn.com/content/image/1-s2.0-S0959378016300681-gr8_lrg.jpg)
+
 
 ### Fossil-fueled Development (SSP5)
 

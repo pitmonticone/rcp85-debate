@@ -56,3 +56,5 @@ knitr::opts_chunk$set(
 * [Chris Parker](https://twitter.com/HyperHydr0)
 
 * [Edwards Byers](https://twitter.com/EdwardByers)
+
+* [Brian O'Neill](https://twitter.com/oneill_bc)
