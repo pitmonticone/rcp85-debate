@@ -17,60 +17,10 @@ knitr::opts_chunk$set(
 )
 ```
 
-## Data
-* [RCP Database](http://tntcat.iiasa.ac.at:8787/RcpDb/dsd?Action=htmlpage&page=about)
-* [SSP Database](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10)
-
-## Reports & Presentations
-#### IPCC 
-* [SYR](https://www.ipcc.ch/report/ar5/syr/)
-* [WG1](https://www.ipcc.ch/report/ar5/wg1/)
-* [WG2](https://www.ipcc.ch/report/ar5/wg2/)
-* [WG3](https://www.ipcc.ch/report/ar5/wg3/)
-
-#### IEA 
-* [WEO](https://www.iea.org/reports/world-energy-outlook-2019)
-
-#### CAT 
-* [Methodology, Current Policy Projections](https://climateactiontracker.org/methodology/current-policy-projections/)
-
-#### AES
-* [Climate Scenario Report](https://s2.q4cdn.com/825052743/files/doc_downloads/2018/11/AES_Climate_Scenario_Report111318.pdf)
-
-#### NCAR
-* [The Road Ahead: SSP Narratives | Bas van Ruijven](https://www.iiasa.ac.at/web/home/about/events/7.SSPNarratives_IIASA_BvR.pdf)
-
-####  Forum on Scenarios of Climate and Societal Futures: Meeting Report
-* [Pardee Center Working Paper, University of Denver](https://pardee.du.edu/sites/default/files/Scenarios%20Forum%20Meeting%20Report%204oct19.pdf)
-
-
-## Research & Review Papers 
-
-#### Keywan Riahi et al.
-* **2007** [Scenarios of long-term socio-economic and environmental development under climate stabilization](https://www.sciencedirect.com/science/article/pii/S0040162506001387?via%3Dihub)
-* **2011** [RCP 8.5: A scenario of comparatively high greenhouse gas emissions](https://link.springer.com/article/10.1007/s10584-011-0149-y)
-
-#### Detlef P. van Vuuren et al. 
-* **2011** [The Representative Concentration Pathways: An Overview, Climatic Change](https://link.springer.com/article/10.1007/s10584-011-0148-z)
-
-#### Brian C. O’Neill et al.
-* **2014** [A New Scenario Framework For Climate Change Research: The Concept of Shared Socioeconomic Pathways, Climatic Change](https://link.springer.com/article/10.1007%2Fs10584-013-0905-2)
-
-#### Brian C. O’Neill et al.
-* **2016** [The Scenario Model Intercomparison Project (ScenarioMIP) for CMIP6, Geoscientific Model Development](https://www.geosci-model-dev.net/9/3461/2016/)
-
-#### Nico Bauer et al. 
-* **2017** [Shared Socio-Economic Pathways of the Energy Sector: Quantifying the Narratives, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016301224)
-
-#### Alexander Popp et al. 
-* **2017** [Land-use Futures in The Shared Socio-Economic Pathways, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016303399)
-
-#### Justin Ritchie et al.
-* **2017** [Why do climate change scenarios return to coal?, Energy, ](https://www.sciencedirect.com/science/article/abs/pii/S0360544217314597)
-* **2017** [The 1000 GtC coal question: Are cases of vastly expanded future coal combustion still plausible?, Energy Economics](https://www.sciencedirect.com/science/article/pii/S0140988317301226)
-* **2018** [Defining climate change scenario characteristics with a phase space of cumulative primary energy and carbon intensity, Environmental Research Letters, Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aaa494)
-
 ## Articles & Blog Posts
+
+#### John Nielsen-Gammon
+* [What Is Business As Usual?](http://climatechangenationalforum.org/what-is-business-as-usual/)
 
 #### Henrik Carlsen et al. 
 * **2017** [Transparent scenario development, Nature Climate Change](https://www.nature.com/articles/nclimate3379)
@@ -104,6 +54,58 @@ knitr::opts_chunk$set(
 
 #### AXIOS
 * [The Decade That Blew Up Energy Predictions](https://www.axios.com/energy-predictions-reality-check-524b9be9-2c0c-407e-86cb-37b11aa72ed2.html)
+
+## Research & Review Papers 
+
+#### Keywan Riahi et al.
+* **2007** [Scenarios of long-term socio-economic and environmental development under climate stabilization](https://www.sciencedirect.com/science/article/pii/S0040162506001387?via%3Dihub)
+* **2011** [RCP 8.5: A scenario of comparatively high greenhouse gas emissions](https://link.springer.com/article/10.1007/s10584-011-0149-y)
+
+#### Detlef P. van Vuuren et al. 
+* **2011** [The Representative Concentration Pathways: An Overview, Climatic Change](https://link.springer.com/article/10.1007/s10584-011-0148-z)
+
+#### Brian C. O’Neill et al.
+* **2014** [A New Scenario Framework For Climate Change Research: The Concept of Shared Socioeconomic Pathways, Climatic Change](https://link.springer.com/article/10.1007%2Fs10584-013-0905-2)
+
+#### Brian C. O’Neill et al.
+* **2016** [The Scenario Model Intercomparison Project (ScenarioMIP) for CMIP6, Geoscientific Model Development](https://www.geosci-model-dev.net/9/3461/2016/)
+
+#### Nico Bauer et al. 
+* **2017** [Shared Socio-Economic Pathways of the Energy Sector: Quantifying the Narratives, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016301224)
+
+#### Alexander Popp et al. 
+* **2017** [Land-use Futures in The Shared Socio-Economic Pathways, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016303399)
+
+#### Justin Ritchie et al.
+* **2017** [Why do climate change scenarios return to coal?, Energy, ](https://www.sciencedirect.com/science/article/abs/pii/S0360544217314597)
+* **2017** [The 1000 GtC coal question: Are cases of vastly expanded future coal combustion still plausible?, Energy Economics](https://www.sciencedirect.com/science/article/pii/S0140988317301226)
+* **2018** [Defining climate change scenario characteristics with a phase space of cumulative primary energy and carbon intensity, Environmental Research Letters, Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aaa494)
+
+## Data
+* [RCP Database](http://tntcat.iiasa.ac.at:8787/RcpDb/dsd?Action=htmlpage&page=about)
+* [SSP Database](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10)
+## Reports & Presentations
+#### IPCC 
+* [SYR](https://www.ipcc.ch/report/ar5/syr/)
+* [WG1](https://www.ipcc.ch/report/ar5/wg1/)
+* [WG2](https://www.ipcc.ch/report/ar5/wg2/)
+* [WG3](https://www.ipcc.ch/report/ar5/wg3/)
+
+#### IEA 
+* [WEO](https://www.iea.org/reports/world-energy-outlook-2019)
+
+#### CAT 
+* [Methodology, Current Policy Projections](https://climateactiontracker.org/methodology/current-policy-projections/)
+
+#### AES
+* [Climate Scenario Report](https://s2.q4cdn.com/825052743/files/doc_downloads/2018/11/AES_Climate_Scenario_Report111318.pdf)
+
+#### NCAR
+* [The Road Ahead: SSP Narratives | Bas van Ruijven](https://www.iiasa.ac.at/web/home/about/events/7.SSPNarratives_IIASA_BvR.pdf)
+
+####  Forum on Scenarios of Climate and Societal Futures: Meeting Report
+* [Pardee Center Working Paper, University of Denver](https://pardee.du.edu/sites/default/files/Scenarios%20Forum%20Meeting%20Report%204oct19.pdf)
+
 
 ## Tweets & Threads
 

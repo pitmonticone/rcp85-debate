@@ -29,7 +29,7 @@ knitr::opts_chunk$set(
 
 1. *$U_{\text{modellers }}(RF\gg RF_{BAU}) > U_{\text{policymakers }}(RF\gg RF_{BAU})$ ^[e.g. to test and compare models, to explore impacts, etc.]*
 
-1. *$\Delta T_{BAU}(\geq 2100) \approx \Delta T_{RCP8.5}(2100)$ for plausible values of sensitivity ^[$BAU$ \in \{ $IEA$, [Hausfather](https://twitter.com/hausfath) \& [Ritchie](https://twitter.com/jritch) \}]*
+1. *$\Delta T_{BAU}(\geq 2100) \approx \Delta T_{RCP8.5}(2100)$ for plausible values of sensitivity ^[$BAU \in$ \{ $IEA$, [Hausfather](https://twitter.com/hausfath) \& [Ritchie](https://twitter.com/jritch) \}]*
 
 1. *$RCP8.5$-based results can be scientifically valid and policy-relevant, despite $\textit{EnergyUse}_{RCP8.5} \neq \textit{EnergyUse}_{BAU}$*
 

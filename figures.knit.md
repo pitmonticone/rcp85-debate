@@ -1,7 +1,7 @@
 ---
 title: "The RCP8.5 Figures"
 author: " @PietroMonticone "
-date: "`r Sys.Date()`, #ClimateTwitter #EnergyTwitter"
+date: "2019-12-27, #ClimateTwitter #EnergyTwitter"
 output:
  prettydoc::html_pretty:
     theme: cayman
@@ -9,13 +9,7 @@ output:
     toc: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(
-	echo = FALSE,
-	message = FALSE,
-	warning = FALSE
-)
-```
+
 
 # Justin Ritchie
 
