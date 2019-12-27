@@ -37,7 +37,6 @@ knitr::opts_chunk$set(
 
 ![[Source](https://twitter.com/jritch/status/1086290740345417728?s=20)](https://pbs.twimg.com/media/DxNGSN3VsAARoui?format=jpg&name=900x900)
 
-![[Source](https://twitter.com/jritch/status/1164308672660426753?s=20)](https://pbs.twimg.com/media/ECh0kEDVUAAhOQA?format=jpg&name=medium)
 
 ![[Source](https://twitter.com/jritch/status/1196482571443425280?s=20)](https://pbs.twimg.com/media/EJrCjeLVUAAjqk0?format=jpg&name=medium)
 
@@ -145,9 +144,26 @@ knitr::opts_chunk$set(
 
 ![[Source](https://twitter.com/richardabetts/status/1209279094216630278?s=20)](https://pbs.twimg.com/media/EMg47EcXkAAuPqF?format=jpg&name=large)
 
+![[Source](https://twitter.com/richardabetts/status/1210296768606461953?s=20)](https://twitter.com/richardabetts/status/1210296768606461953/photo/1)
+
 # Roger Pielke Jr. 
 
 # Michael Liebreich
+
+![[Source](https://twitter.com/MLiebreich/status/1209801992882806787?s=20)](https://pbs.twimg.com/media/EMoUfuIWwAE6vop?format=jpg&name=large)
+
+![[Source](https://twitter.com/MLiebreich/status/1209802940640374784?s=20)](https://pbs.twimg.com/media/EMoVW7xXYAAE_p4?format=jpg&name=large)
+
+![[Source](https://twitter.com/MLiebreich/status/1209805183984820224?s=20)](https://pbs.twimg.com/media/EMoXZbVX0AAb13y?format=jpg&name=large)
+
+![[Source](https://twitter.com/MLiebreich/status/1209806548865695744?s=20)](https://pbs.twimg.com/media/EMoYoyfX0AE7YET?format=jpg&name=large)
+
+![[Source](https://twitter.com/MLiebreich/status/1209888405557063680?s=20)](https://pbs.twimg.com/media/EMpjFxjW4AcjOu8?format=png&name=small)
+
+![[Source](https://twitter.com/MLiebreich/status/1210292169375977472?s=20)](https://pbs.twimg.com/media/EMvST6LXYAQ6dVZ?format=png&name=small)
+
+
+
 
 # Pietro Monticone 
 ![[Source](https://twitter.com/PietroMonticone/status/1204848964660584452?s=20)](https://pbs.twimg.com/media/ELh7vACXUAA2lLg?format=jpg&name=large)
@@ -194,10 +210,13 @@ knitr::opts_chunk$set(
 
 ![[Source](https://twitter.com/Peters_Glen/status/1209387352013103106?s=20)](https://pbs.twimg.com/media/EMibYkbXsAAsgND?format=png&name=900x900)
 
+# Chris Parker 
 
-![](https://pbs.twimg.com/media/EMUYGIWWkAAhHam?format=jpg&name=900x900)
+![[Source](https://twitter.com/HyperHydr0/status/1193273513966276610?s=20)](https://pbs.twimg.com/media/EI9b7sWW4AAKVde?format=jpg&name=900x900)
 
+![[Source](https://twitter.com/HyperHydr0/status/1202286756927877120?s=20)](https://pbs.twimg.com/media/EK9hbLQXsAE16dS?format=jpg&name=4096x4096)
 
+![[Source](https://twitter.com/HyperHydr0/status/1208398578181451778?s=20)](https://pbs.twimg.com/media/EMUYGIWWkAAhHam?format=jpg&name=900x900)
 
 
 
