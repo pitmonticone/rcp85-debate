@@ -58,3 +58,7 @@ knitr::opts_chunk$set(
 * [Edwards Byers](https://twitter.com/EdwardByers)
 
 * [Brian O'Neill](https://twitter.com/oneill_bc)
+
+* [Andrew Dessler](https://twitter.com/AndrewDessler)
+
+* [Daniel Swain](https://twitter.com/Weather_West)

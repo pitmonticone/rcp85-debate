@@ -94,6 +94,8 @@ knitr::opts_chunk$set(
 ### Emily Ho et al. 
 * **2019** [Not all carbon dioxide emission scenarios are equally likely: a subjective expert assessment, Climatic Change](https://link.springer.com/article/10.1007/s10584-019-02500-y)
 
+### Pierre Friedlingstein et al. 
+* **2014** [Uncertainties in CMIP5 Climate Projections due to Carbon Cycle Feedbacks](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-12-00579.1)
 
 ## Data
 * [RCP Database](http://tntcat.iiasa.ac.at:8787/RcpDb/dsd?Action=htmlpage&page=about)
