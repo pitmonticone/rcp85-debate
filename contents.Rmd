@@ -146,7 +146,8 @@ IPCC Assessment Report 7 in 2028 to get there! ([Source](https://twitter.com/MLi
 * The latter group proudly identify themselves by proclaiming "RCP8.5 is bollocks" despite months of scientists pointing out how unnecessarily reductive this is, especially outside that group's own narrow use cases, and including actual climate modelers and end users. ([Source](https://twitter.com/past_is_future/status/1209172298357456897?s=20))
 * If you wrote a paper that uses CMIP5 RCP8.5 temps as an input, you wouldn't have to wait until 2200 to plausibly see those temps, let alone they wouldn't be precluded from happening by current policy, and pretending they're impossible as we've seen some doing is at best ignorant. ([Source](https://twitter.com/past_is_future/status/1210978857660157952?s=20))
 * My main point is not as 1:1 substitute for higher sensitivity modeling going forward but whether revision to BAU emissions renders extant work using 8.5 policy irrelevant (it doesn't). ([Source](https://twitter.com/past_is_future/status/1210988048726548480?s=20))
-
+* I think a lot of the sturm and drang around this could be avoided by reasonable people agreeing that optimal and informative are not the same thing, and studies can be the latter while not being perfectly the former. Indeed that's basically what science is all about. ([Source](https://twitter.com/past_is_future/status/1210994108287856640?s=20))
+* I'm more than happy (and, in fact, now go out of my way to) emphasize that RCP8.5 is not "business as usual." But as a physically consistent proxy for "high warming outcomes"--which are not vanishingly unlikely--it is most reasonable _extant_ set of widely available forcing runs. ([Source](https://twitter.com/Weather_West/status/1210997067662774272?s=20))
 
 ### Ken Rice 
 > 
@@ -201,6 +202,10 @@ IPCC Assessment Report 7 in 2028 to get there! ([Source](https://twitter.com/MLi
 
 
 
+
+### Daniel Swain
+>
+* From a physical climate perspective, using RCP8.5 as a shortcut for assessing impacts of __a)__ higher-than-expected direct human emissions, __b)__ higher than median ECS, and/or __c)__ larger-than-expected carbon cycle feedbacks still seems perfectly reasonable. ([Source](https://twitter.com/Weather_West/status/1210988167823675393?s=20))
 
 # Glossary
 
