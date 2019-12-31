@@ -25,6 +25,9 @@ knitr::opts_chunk$set(
 ### Henrik Carlsen et al. 
 * **2017** [Transparent scenario development, Nature Climate Change](https://www.nature.com/articles/nclimate3379)
 
+### Eric Roston 
+* [Climate Change Just Got a Little Less Terrible](https://www.bloomberg.com/news/articles/2018-02-09/climate-change-just-got-a-little-less-terrible)
+
 ### Roger Pielke Jr. 
 * [Opening Up the Climate Policy Envelope](https://issues.org/opening-up-the-climate-policy-envelope/)
 * [The Incredible Story Of How Climate Change Became Apocalyptic](https://www.forbes.com/sites/rogerpielke/2019/12/06/the-incredible-story-of-how-climate-change-became-apocalyptic/)
@@ -37,6 +40,7 @@ knitr::opts_chunk$set(
 * [Carbon Brief Explainer: How scientists estimate ‘climate sensitivity’](https://www.carbonbrief.org/explainer-how-scientists-estimate-climate-sensitivity)
 
 ### CICERO
+* [Who is winning the emissions tug-of-war?](https://cicero.oslo.no/no/posts/klima/who-is-winning-the-emissions-tug-of-war)
 * [A Guide to Representative Concentration Pathways](https://www.cicero.oslo.no/en/posts/news/a-guide-to-representative-concentration-pathways)
 
 ### Zeke Haufather & Justin Ritchie 
@@ -63,6 +67,13 @@ knitr::opts_chunk$set(
 
 ## Research & Review Papers 
 
+### Sluisveld et al. 
+* **2015** [Comparing future patterns of energy system change in 2 °C scenarios with historically observed rates of change, Global Environmental Change](https://link.springer.com/article/10.1007/s10584-011-0156-z)
+
+### Meinshausen et al.
+* **2011** [Comparing future patterns of energy system change in 2 °C scenarios with historically observed rates of change, Climatic Change](https://www.sciencedirect.com/science/article/abs/pii/S095937801530056X)
+
+
 ### Keywan Riahi et al.
 * **2007** [Scenarios of long-term socio-economic and environmental development under climate stabilization](https://www.sciencedirect.com/science/article/pii/S0040162506001387?via%3Dihub)
 * **2011** [RCP 8.5: A scenario of comparatively high greenhouse gas emissions](https://link.springer.com/article/10.1007/s10584-011-0149-y)
@@ -85,6 +96,10 @@ knitr::opts_chunk$set(
 
 ### Alexander Popp et al. 
 * **2016** [Land-use Futures in The Shared Socio-Economic Pathways, Global Environmental Change](https://www.sciencedirect.com/science/article/pii/S0959378016303399)
+
+### Mohr et al. 
+* **2014** [Projection of world fossil fuels by country, Fuel, ](https://www.sciencedirect.com/science/article/pii/S0016236114010254)
+
 
 ### Justin Ritchie et al.
 * **2017** [Why do climate change scenarios return to coal?, Energy, ](https://www.sciencedirect.com/science/article/abs/pii/S0360544217314597)

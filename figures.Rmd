@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 	warning = FALSE
 )
 ```
+# Bob Kopp
+![[Twitter](https://twitter.com/bobkopp/status/1070393379702362118?s=20)](https://pbs.twimg.com/media/DtrNGUtU4AADtbr?format=jpg&name=large)
 
 # Justin Ritchie
 
@@ -193,6 +195,8 @@ knitr::opts_chunk$set(
 ![[Twitter](https://twitter.com/PietroMonticone/status/1208434906868654081?s=20)](https://pbs.twimg.com/media/EMU5HohWwAElJ_C?format=jpg&name=large)
 
 # Glen Peters 
+
+![[Twitter](https://twitter.com/Peters_Glen/status/962302632600612866?s=20)](https://pbs.twimg.com/media/DVrElnGXcAA6oAN?format=jpg&name=900x900)
 
 ![[Twitter](https://twitter.com/Peters_Glen/status/1160159268299055106?s=20)](https://pbs.twimg.com/media/EBm2s6bW4AAItIv?format=jpg&name=large)
 
