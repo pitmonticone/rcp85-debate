@@ -90,6 +90,8 @@ knitr::opts_chunk$set(
 
 ![[Twitter](https://twitter.com/hausfath/status/1197672226805280768?s=20)](https://pbs.twimg.com/media/EJ78hhRU0AAhsRS?format=png&name=900x900)
 
+![[Climate Action Tracker](https://climateactiontracker.org/global/temperatures/)](https://climateactiontracker.org/media/images/CAT-2100WarmingProjectionsGraph-2019.12.original.png)
+
 ![[Twitter](https://twitter.com/hausfath/status/1197673185082138624?s=20)](https://pbs.twimg.com/media/EJ79ae-U4AE8qjs?format=jpg&name=medium)
 
 ![[Twitter](https://twitter.com/hausfath/status/1197940866276450304?s=20)](https://pbs.twimg.com/media/EJ_w3c8UYAAUGop?format=jpg&name=medium)
