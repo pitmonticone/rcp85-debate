@@ -171,8 +171,15 @@ knitr::opts_chunk$set(
 * [New BAU](https://threadreaderapp.com/thread/1208845752769941510.html)
 
 
-## Videos
+## Podcasts & Videos
 
+### Podcasts 
+
+#### The Energy Transition Show
+* [Episode #49 with Ritchie](https://xenetwork.org/ets/episodes/episode-49-climate-science-part-5-business-usual/)
+* [Episode #112 with Glen Peters](https://xenetwork.org/ets/episodes/episode-112-climate-science-part-11-climate-confusion/)
+
+### Videos 
 * [Revisiting Business-As-Usual | Justin Ritchie](https://youtu.be/HKK3GjI3_eE)
 * [Revisiting Worst-Case Climate Scenarios: Is RCP8.5 Still Plausible? | Justin Ritchie](https://youtu.be/w1YO95nXPVw)
 
