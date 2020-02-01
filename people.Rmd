@@ -61,6 +61,8 @@ knitr::opts_chunk$set(
 
 * [Andrew Dessler](https://twitter.com/AndrewDessler)
 
+* [Gavin Schmidt](https://twitter.com/ClimateOfGavin)
+
 * [Daniel Swain](https://twitter.com/Weather_West)
 
 * [Jonathan Gilligan](https://twitter.com/jg_environ)
