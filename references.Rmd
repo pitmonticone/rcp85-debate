@@ -22,9 +22,6 @@ knitr::opts_chunk$set(
 ### John Nielsen-Gammon
 * [What Is Business As Usual?](http://climatechangenationalforum.org/what-is-business-as-usual/)
 
-### Henrik Carlsen et al. 
-* **2017** [Transparent scenario development, Nature Climate Change](https://www.nature.com/articles/nclimate3379)
-
 ### Eric Roston 
 * [Climate Change Just Got a Little Less Terrible](https://www.bloomberg.com/news/articles/2018-02-09/climate-change-just-got-a-little-less-terrible)
 
@@ -100,6 +97,8 @@ knitr::opts_chunk$set(
 ### Mohr et al. 
 * **2014** [Projection of world fossil fuels by country, Fuel, ](https://www.sciencedirect.com/science/article/pii/S0016236114010254)
 
+### Henrik Carlsen et al. 
+* **2017** [Transparent scenario development, Nature Climate Change](https://www.nature.com/articles/nclimate3379)
 
 ### Justin Ritchie et al.
 * **2017** [Why do climate change scenarios return to coal?, Energy, ](https://www.sciencedirect.com/science/article/abs/pii/S0360544217314597)
