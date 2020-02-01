@@ -1,0 +1,361 @@
+---
+title: "Decarboard"
+author: "Pietro Monticone"
+# date: " Ca' Foscari, 2020-02-15" # `r Sys.Date()`
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns # or rows
+    # vertical_layout: scroll # or scroll
+    # social: [ "twitter", "github", "menu" ]
+    # source_code: embed
+    vertical_layout: fill
+    theme: paper
+    social: [ "twitter", "github", "menu" ]
+    # source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+
+library(DT)
+
+library(knitr)
+
+library(tidyverse)
+
+library(leaflet) # geospatial mapping
+
+library(dygraphs) # time series charting
+
+library(plotly) # interactive graphics with D3
+
+library(rbokeh) # interface to Bokeh, a powerful declarative Bokeh framework for creating web-based plots.
+
+library(highcharter) # a rich R interface to the popular Highcharts JavaScript graphics library.
+
+library(visNetwork) # interface to the network visualization capabilities of the vis.js library.
+
+library(networkD3) # Graph data visualization with D3
+
+library(d3heatmap) # interactive heatmaps with D3
+
+library(DiagrammeR) # diagrams and flowcharts
+
+# Both static (a standard web page) and dynamic/interactive (a Shiny interactive document) complex data visualization
+```
+
+References
+=======================================================================
+
+Column{.tabset}
+-----------------------------------------------------------------------
+
+### Articles
+* **2018** [*Ranking Electricity Supplies*](https://www.diplomaticourier.com/posts/ranking-electricity-supplies)
+
+### Book Chapters
+* **2015** [*Sustainability Assessment for Energy Technologies*](https://doi.org/10.1002/9781118991978.hces070)
+* **2015** [*Environmental Life Cycle Assessment (LCA) of Energy Systems*](https://doi.org/10.1002/9781118991978.hces139)
+* **2020** [*Life cycle sustainability assessment in the energy sector*](https://doi.org/10.1016/B978-0-12-815581-3.00005-1)
+
+### Encyclopedia Sections
+* **2017** [*A Life Cycle Approach to Measuring Sustainability*](https://doi.org/10.1016/B978-0-12-409548-9.10036-3)
+* **2017** [*Integration of Life Cycle Assessment Into Decision-Analytic Approaches for Sustainable Technologies*](https://doi.org/10.1016/B978-0-12-409548-9.10037-5)
+* **2017** [*Sustainability in Power Generation Systems*](https://doi.org/10.1016/B978-0-12-409548-9.10045-4)
+* **2017** [*Life-Cycle Analysis of Thermoelectric Power Generation in the United States*](https://doi.org/10.1016/B978-0-12-409548-9.10077-6)
+* **2018** [*Greenhouse Gas Emissions from Energy Systems, Comparison, and Overview*](https://doi.org/10.1016/B978-0-12-809665-9.09276-4)
+* **2018** [*Sustainability Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00104-8)
+* **2018** [*Life Cycle Assessment of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00134-6)
+* **2018** [*Environmental Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00103-6)
+* **2018** [*Future Energy Directions*](https://doi.org/10.1016/B978-0-12-809597-3.00139-5)
+* **2018** [*Sustainability Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00104-8)
+* **2018** [*Sustainability Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00104-8)
+
+### Research Papers
+* **2013** [*Life cycle assessment (LCA) of electricity generation technologies: Overview, comparability and limitations*](https://doi.org/10.1016/j.rser.2013.08.013)
+* **2014** [*Human health impacts in the life cycle of future European electricity generation*](https://doi.org/10.1016/j.enpol.2014.03.034)
+* **2014** [*Comparative risk assessment of severe accidents in the energy sector*](https://doi.org/10.1016/j.enpol.2014.01.035)
+* **2014** [*Sustainability assessment of energy systems: integrating environmental, economic and social aspects*](https://doi.org/10.1016/j.jclepro.2014.05.061)
+* **2014** [*Life cycle sustainability assessment of UK electricity scenarios to 2070*](https://doi.org/10.1016/j.esd.2014.09.008)
+* **2014** [*Comparative risk assessment of severe accidents in the energy sector*](https://doi.org/10.1016/j.enpol.2014.01.035)
+* **2014** [*Energy Density and Spatial Footprints of Various Electrical Power Systems*](https://doi.org/10.1016/j.egypro.2014.11.1174)
+* **2014** [*Incorporating life cycle external cost in optimization of the electricity generation mix*](https://doi.org/10.1016/j.enpol.2013.10.023)
+* **2015** [*Sustainable Production and Consumption: A Decision-Support Framework Integrating Environmental, Economic and Social Sustainability*](https://doi.org/10.1016/B978-0-444-63578-5.50017-7)
+* **2016** [*Towards sustainable production and consumption: A novel DEcision-Support Framework IntegRating Economic, Environmental and Social Sustainability (DESIRES)*](https://doi.org/10.1016/j.compchemeng.2016.03.017)
+* **2016** [*Health effects of technologies for power generation: Contributions from normal operation, severe accidents and terrorist threat*](https://doi.org/10.1016/j.ress.2015.09.013)
+* **2016** [*Multi-criteria analysis of electricity generation technologies in Lithuania*](https://doi.org/10.1016/j.renene.2015.06.032)
+* **2017** [*Life-cycle energy densities and land-take requirements of various power generators: A UK perspective*](https://doi.org/10.1016/j.joei.2016.02.003)
+* **2017** [*A review of life-cycle approaches coupled with data envelopment analysis within multi-criteria decision analysis for sustainability assessment of energy systems*](https://doi.org/10.1016/j.jclepro.2017.03.017)
+* **2017** [*Understanding future emissions from low-carbon power systems by integration of life-cycle assessment and integrated energy modelling*](https://www.nature.com/articles/s41560-017-0032-9)
+* **2017** [*Health benefits, ecological threats of low-carbon electricity*](https://iopscience.iop.org/article/10.1088/1748-9326/aa6047)
+* **2017** [*Prospective life cycle assessment of the Spanish electricity production*](https://doi.org/10.1016/j.rser.2016.10.045)
+* **2017** [*Potentials, costs and environmental assessment of electricity generation technologies*](https://www.psi.ch/sites/default/files/import/ta/HomeEN/Final-Report-BFE-Project.pdf)
+* **2017** [*Life cycle sustainability assessment of electricity generation in Pakistan: Policy regime for a sustainable energy mix*](http://dx.doi.org/10.1016/j.enpol.2017.09.022)
+* **2018** [*Sustainable Development Goals as a Guideline for Indicator Selection in Life Cycle Sustainability Assessment*](https://doi.org/10.1016/j.procir.2017.11.144)
+* **2018** [*The spatial extent of renewable and non-renewable power generation: A review and meta-analysis of power densities and their application in the U.S.*](https://doi.org/10.1016/j.enpol.2018.08.023)
+* **2018** [*Comparative Assessment of the Environmental Impacts of Hydro-Electric, Nuclear and Wind Power Plants in China: Life Cycle Considerations.*](https://doi.org/10.1016/j.egypro.2018.09.108)
+* **2018** [*Sustainability of UK shale gas in comparison with other electricity options: Current situation and future scenarios*](https://doi.org/10.1016/j.scitotenv.2017.11.140)
+* **2018** [*Multi-criteria decision making for the prioritization of energy systems under uncertainties after life cycle sustainability assessment*](https://doi.org/10.1016/j.spc.2018.06.005)
+* **2018** [*Integrated life cycle sustainability assessment using fuzzy inference: A novel FELICITA model*](https://doi.org/10.1016/j.spc.2018.03.002)
+* **2019** [*Life-cycle sustainability assessment of key electricity generation systems in Portugal*](https://doi.org/10.1016/j.energy.2019.03.166)
+* **2019** [*A comparative life-cycle assessment of hydro-, nuclear and wind power: A China study*](https://doi.org/10.1016/j.apenergy.2019.04.099)
+* **2019** [*Enhanced prioritisation of prospective scenarios for power generation in Spain: How and which one?*](https://doi.org/10.1016/j.energy.2018.12.057)
+* **2019** [*A systematic review of life cycle sustainability assessment: Current state, methodological challenges, and implementation issues*](https://doi.org/10.1016/j.scitotenv.2019.05.435)
+* **2019** [*Stamford, L., B. Atilgan, J. Cooper and A. Azapagic (2019). Multi-criteria decision analysis for energy policy. Chapter 39. In: Handbook of Energy Economics, CRC.*]()
+* **2019** [*Time Value of Greenhouse Gas Emissions in Life Cycle Assessment and Techno-Economic Analysis*](https://pubs.acs.org/doi/10.1021/acs.est.9b00514)
+
+#### Energy Economics
+
+* **2019** [*Levelised cost of energy – A theoretical justification and critical assessment*](https://medium.com/informatics-lab/simple-climate-modelling-in-python-43d0d0b4af03)
+
+
+### Reports
+
+#### European Union
+
+##### NEEDS (2009)
+[Homepage](http://www.needs-project.org)
+
+* [*Sustainability criteria and indicators for assessment of electricity supply options*](http://www.needs-project.org/2009/Deliverables/RS2b%20D3.2%20-%20Criteria&Indicators.pdf)
+* [*Final report on quantification of economic indicators*](http://www.needs-project.org/2009/Deliverables/RS2b%20D5.2%20-%20Economic%20Indicators.pdf)
+* [*Final report on quantification of risk indicators*](http://www.needs-project.org/2009/Deliverables/RS2b%20D6.1.pdff)
+* [*Final report on quantification of social indicators*](http://www.needs-project.org/2009/Deliverables/RS2b%20D8.1.pdf)
+* [*Final indicator database*](http://www.needs-project.org/2009/Deliverables/RS2b_D10-1.pdf)
+* [*Final report on sustainability assessment of advanced electricity supply options*](http://www.needs-project.org/2009/Deliverables/NEEDS_RS2b_D10-2%20-%20Final%20Report.pdf)
+* [*Implementation, evaluation and reporting on the survey on criteria and indicators for assessment of future electricity supply options*](http://www.needs-project.org/2009/Deliverables/RS2b%20D12.3%20-%20Survey2.pdf)
+* [*Policy use of the NEEDS results*](http://www.needs-project.org/docs/Needs.pdf)
+* [*A summary account of the final debate*](http://www.needs-project.org/docs/Annexstampa.pdf)
+
+##### EcoFys (2014)
+[*Homepage*](https://ec.europa.eu/energy/en/content/final-report-ecofys)
+
+* [*Final report on Subsidies and costs of EU energy*](https://ec.europa.eu/energy/sites/ener/files/documents/ECOFYS%202014%20Subsidies%20and%20costs%20of%20EU%20energy_11_Nov.pdf)
+* [*Annex 1-3*](https://ec.europa.eu/energy/sites/ener/files/documents/DESNL14583%20Final%20report%20annexes%201-3%2011%20Nov.pdf)
+* [*Annex 4-5*](https://ec.europa.eu/energy/sites/ener/files/documents/DESNL14583%20Final%20report%20annexes%204%205%20v3.pdf)
+* [*Annex 6*](https://ec.europa.eu/energy/sites/ener/files/documents/Annex_6_Stakeholder%20comments%20v2.pdf)
+
+
+##### Clean energy for all Europeans package (2019)
+[Homepage](https://ec.europa.eu/energy/en/topics/energy-strategy-and-energy-union/clean-energy-all-europeans)
+
+* [Report](https://op.europa.eu/en/publication-detail/-/publication/b4e46873-7528-11e9-9f05-01aa75ed71a1/language-en?WT.mc_id=Searchresult&WT.ria_c=null&WT.ria_f=3608&WT.ria_ev=search)
+* [Factsheet: Energy Performance in Buildings Directive](https://ec.europa.eu/energy/en/content/factsheet-energy-performance-buildings-directive)
+* [Factsheet: Renewable Energy Directive](https://ec.europa.eu/energy/en/content/factsheet-renewable-energy-directive)
+* [Factsheet: Energy Efficiency Directive](https://ec.europa.eu/energy/en/content/factsheet-energy-efficiency-directive)
+* [Factsheet: Regulation on the governance of the energy union and climate action](https://ec.europa.eu/energy/en/content/factsheet-regulation-governance-energy-union-and-climate-action)
+* [Factsheet: Electricity Market Design](https://ec.europa.eu/energy/en/content/factsheet-electricity-market-design)
+
+
+### International Institute Applied System Analysis
+
+##### GEA (2012)
+[Homepage](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Home-GEA.en.html)
+
+* [Summary Booklet](https://iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA-Summary-web.pdf)
+* [Poster](https://iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Rogner_GEA_Poster_IIASA_Conference.pdf)
+* [Scenario Database](https://www.iiasa.ac.at/web-apps/ene/geadb/dsd?Action=htmlpage&page=about#tutorial)
+* [Policy Analysis Tool](https://www.iiasa.ac.at/web-apps/ene/GeaMCA/McaTool.html)
+    * [*User Manual*](https://www.iiasa.ac.at/web/home/research/researchPrograms/Energy/User-Manual_ENE-MCA_2013-05-27.pdf)
+    * [*An integrated approach to energy sustainability*](https://www.nature.com/articles/nclimate1297)
+    * [*Climate policies can help resolve energy security and air pollution challenges*](https://link.springer.com/article/10.1007%2Fs10584-013-0710-y)
+ 
+    
+* [*Chapter 1: Energy Primer*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapter1.en.html)
+* [*Chapter 2: Energy, Poverty and Development*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapter2.en.html)
+* [*Chapter 3: Energy and Environment*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapter3.en.html)
+* [*Chapter 4: Energy and Health*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapter4.en.html)
+* [*Chapter 5: Energy and Security*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapter5.en.html)
+* [*Chapter 6: Energy and Economy*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapter6.en.html)
+
+* [*Chapter 15: Energy Supply Systems*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapte15.en.html)
+* [*Chapter 16: Transitions in Energy Systems*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapte16.en.html)
+
+* [*Chapter 22: Policies for Energy System Transformations*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapte22.en.html)
+* [*Chapter 23: Policies for Energy Access*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapte23.en.html)
+* [*Chapter 24: Policies for the Energy Technology Innovation System*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapte24.en.html)
+* [*Chapter 25: Policies for Capacity Building*](https://www.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/Chapte25.en.html)
+
+### United Nations
+
+##### IPCC (2013-2022)
+* 2013 [AR5 WG1](https://www.ipcc.ch/report/ar5/wg1/)
+* 2014 [AR5 WG2](https://www.ipcc.ch/report/ar5/wg2/) 
+* 2014 [AR5 WG3](https://www.ipcc.ch/report/ar5/wg3/) 
+* 2014 [AR5 SYR](https://www.ipcc.ch/report/ar5/syr/) 
+* 2018 [SR15](https://www.ipcc.ch/report/sr15/)
+* 2019 [SRCCL](https://www.ipcc.ch/report/srccl/)
+* 2019 [SROCC](https://www.ipcc.ch/report/srocc/)
+* 2021 [AR6 WG1](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
+* 2021 [AR6 WG2](https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/)
+* 2021 [AR6 WG3](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) 
+* 2022 [AR6 SYR](https://www.ipcc.ch/report/sixth-assessment-report-cycle/) 
+
+##### DDPP (2015)
+[Homepage](http://deepdecarbonization.org/ddpp-reports/)
+
+* [Synthesis Reports](http://deepdecarbonization.org/ddpp-reports/)
+* [Visualization Tool](http://deepdecarbonization.org/countries/visualization-of-country-scenarios/)
+* [Italy](http://deepdecarbonization.org/wp-content/uploads/2015/09/DDPP_ITA.pdf)
+    * [Factsheet](http://deepdecarbonization.org/wp-content/uploads/2015/07/DDPP-Factsheet_Italy.pdf)
+
+### OECD 
+
+#### IEA 
+[Homepage](https://www.iea.org)
+
+###### Clean Energy Investment Trends
+* **2018** [*Clean Energy Investment Trends 2018*](https://webstore.iea.org/clean-energy-investment-trends-2018)
+* **2019** [*Clean Energy Investment Trends 2019*](https://webstore.iea.org/clean-energy-investment-trends-2019)
+
+###### Energy Technology Perspective (ETP)
+* **2014** [*ETP 2014*](https://webstore.iea.org/world-energy-outlook-2014)
+* **2015** [*ETP 2015*](https://webstore.iea.org/energy-technology-perspectives-2015)
+* **2016** [*ETP 2016*](https://webstore.iea.org/energy-technology-perspectives-2016)
+* **2017** [*ETP 2017*](https://webstore.iea.org/energy-technology-perspectives-2017)
+
+###### Global EV Outlook
+* **2016** [*Global EV Outlook 2016*](https://webstore.iea.org/global-ev-outlook-2016)
+* **2017** [*Global EV Outlook 2017*](https://webstore.iea.org/global-ev-outlook-2017)
+* **2018** [*Global EV Outlook 2018*](https://webstore.iea.org/global-ev-outlook-2018)
+* **2019** [*Global EV Outlook 2019*](https://webstore.iea.org/global-ev-outlook-2019)
+
+###### Special Reports
+* **2015** [*Projected Costs of Generating Electricity 2015*](https://webstore.iea.org/projected-costs-of-generating-electricity-2015)
+* **2015** [*Capturing the Multiple Benefits of Energy Efficiency*](https://webstore.iea.org/capturing-the-multiple-benefits-of-energy-efficiency)
+* **2015** [*Complementary measures for decarbonisation*](https://webstore.iea.org/complementary-measures-for-decarbonisation)
+* **2016** [*20 years of carbon capture and storage*](https://webstore.iea.org/20-years-of-carbon-capture-and-storage)
+* **2019** [*Technology Innovation to Accelerate Energy Transitions*](https://webstore.iea.org/technology-innovation-to-accelerate-energy-transitions)
+* **2019** [*Securing Investments in Low-Carbon Power Generation Sources*](https://webstore.iea.org/securing-investments-in-low-carbon-power-generation-sources)
+* **2019** [*Nuclear Power in a Clean Energy System*](https://webstore.iea.org/nuclear-power-in-a-clean-energy-system)
+* **2019** [*Material efficiency in clean energy transitions*](https://webstore.iea.org/material-efficiency-in-clean-energy-transitions)
+* **2019** [*Perspectives for the Clean Energy Transition*](https://webstore.iea.org/perspectives-for-the-clean-energy-transition)
+
+###### World Energy Investment (WEI)
+* **2016** [*WEI 2016*](https://webstore.iea.org/world-energy-investment-2016)
+* **2017** [*WEI 2017*](https://webstore.iea.org/world-energy-investment-2017)
+* **2018** [*WEI 2018*](https://webstore.iea.org/world-energy-investment-2018)
+* **2019** [*WEI 2019*](https://webstore.iea.org/world-energy-investment-2019)
+
+###### World Energy Outlook (WEO)
+* **2016** [*WEO 2016*](https://webstore.iea.org/world-energy-outlook-2016)
+* **2017** [*WEO 2017*](https://webstore.iea.org/world-energy-outlook-2017)
+* **2018** [*WEO 2018*](https://webstore.iea.org/world-energy-outlook-2018)
+* **2019** [*WEO 2019*](https://webstore.iea.org/world-energy-outlook-2019)
+
+
+
+
+###### Data & Statistics
+
+* **2018** [*CO2 Emissions from Fuel Combustion 2018*](https://webstore.iea.org/co2-emissions-from-fuel-combustion-2018)
+* **2018** [*Electricity Information 2018*](https://webstore.iea.org/electricity-information-2018)
+* **2018** [*Emissions Factors 2018*](https://webstore.iea.org/emissions-factors)
+
+###### World Energy Statistics & Balances (WESB)
+* **2018** [*WESB 2018*](https://webstore.iea.org/world-energy-statistics-and-balances-2018)
+* **2019** [*WESB 2019*](https://webstore.iea.org/world-energy-statistics-and-balances-2019)
+
+
+#### NEA 
+[Homepage](https://www.oecd-nea.org)
+
+##### Annual Reports
+* **2015** [*NEA 2014 Annual Report*](https://www.oecd-nea.org/pub/activities/ar2018/ar2014.pdf)
+* **2016** [*NEA 2015 Annual Report*](https://www.oecd-nea.org/pub/activities/ar2016/ar2015.pdf)
+* **2017** [*NEA 2016 Annual Report*](https://www.oecd-nea.org/pub/activities/ar2016/ar2016.pdf)
+* **2018** [*NEA 2017 Annual Report*](https://www.oecd-nea.org/pub/activities/ar2017/ar2017.pdf)
+* **2019** [*NEA 2018 Annual Report*](https://www.oecd-nea.org/pub/activities/ar2018/ar2018.pdf)
+
+##### Nuclear Safety & Regulation
+* **2013** [*The Fukushima Daiichi Nuclear Power Plant Accident: OECD/NEA Nuclear Safety Response and Lessons Learnt*](https://www.oecd-nea.org/pub/2013/7161-fukushima2013.pdf)
+* **2016** [*Five Years after the Fukushima Daiichi Accident Nuclear Safety Improvements and Lessons Learnt*](https://www.oecd-nea.org/nsd/pubs/2016/7284-five-years-fukushima.pdf)
+* **2016** [*Implementation of Defence in Depth at Nuclear Power Plants Lessons Learnt from the Fukushima Daiichi Accident*](https://www.oecd-nea.org/nsd/pubs/2016/7248-did-npp.pdf)
+* **2016** [*The Safety Culture of an Effective Nuclear Regulatory Body*](https://www.oecd-nea.org/nsd/pubs/2016/7247-scrb2016.pdf)
+
+###### Nuclear Energy Data (NED)
+* **2015** [*NED 2015*](https://www.oecd-nea.org/ndd/pubs/2015/7246-ned-2015.pdf)
+* **2016** [*NED 2016*](https://www.oecd-nea.org/ndd/pubs/2016/7300-ned-2016.pdf)
+* **2017** [*NED 2017*](https://www.oecd-nea.org/ndd/pubs/2017/7365-ned-2017.pdf)
+* **2018** [*NED 2018*](https://www.oecd-nea.org/ndd/pubs/2018/7416-ned-2018.pdf)
+
+##### Nuclear Technology Development & Economics
+
+* **2010** [*The Security of Energy Supply
+and the Contribution of Nuclear Energy*](https://www.oecd-nea.org/ndd/pubs/2010/6358-security-energy-sup.pdf)
+* **2010** [*Radioactive Waste in Perspective*](https://www.oecd-nea.org/ndd/pubs/2010/6350-waste-perspective.pdf)
+* **2010** [*Public Attitudes to Nuclear Power*](https://www.oecd-nea.org/ndd/pubs/2010/6859-public-attitudes.pdf)
+* **2011** [*Carbon Pricing, Power Markets and the Competitiveness of Nuclear Power*](https://www.oecd-nea.org/ndd/pubs/2011/6982-carbon-pricing.pdf)
+* **2012** [*The Supply of Medical Radioisotopes*](https://www.oecd-nea.org/ndd/reports/2012/7129-leu.pdf)
+* **2012** [*The Economics of Long-term Operation of Nuclear Power Plants*](https://www.oecd-nea.org/ndd/reports/2012/7054-long-term-operation-npps.pdf)
+* **2012** [*The Role of Nuclear Energy
+in a Low-carbon Energy Future*](https://www.oecd-nea.org/nsd/reports/2012/nea6887-role-nuclear-low-carbon.pdf)
+* **2013** [*The Economics of the Back End of the Nuclear Fuel Cycle*](https://www.oecd-nea.org/ndd/pubs/2013/7061-ebenfc.pdf)
+* **2014** [*Managing Environmental and Health Impacts of Uranium Mining*](https://www.oecd-nea.org/ndd/pubs/2014/7062-mehium.pdf)
+* **2015** [*Nuclear Energy: Combating Climate Change*](https://www.oecd-nea.org/ndd/pubs/2015/7208-climate-change-2015.pdf)
+* **2017** [*Impacts of the Fukushima Daiichi Accident on Nuclear Development Policies*](https://www.oecd-nea.org/ndd/pubs/2017/7212-impacts-fukushima-policies.pdf)
+* **2018** [*Measuring Employment Generated by the Nuclear Power Sector*](https://www.oecd-nea.org/ndd/pubs/2018/7204-employment-nps.pdf)
+
+
+
+###### The Costs of Decarbonization
+* **2019** [*The Costs of Decarbonisation: System Costs with High Shares of Nuclear and Renewables*](https://www.oecd-nea.org/ndd/pubs/2019/7299-system-costs.pdf)
+* **2019** [*Executive Summary*](https://www.oecd-nea.org/ndd/pubs/2019/7299-system-costs.pdf)
+* **2019** [*Policy Brief*](https://www.oecd-nea.org/ndd/pubs/2019/7299-system-costs.pdf)
+
+###### The Full Costs of Electricity Provision
+* **2018** [*The Full Costs of Electricity Provision*](https://www.oecd-nea.org/ndd/pubs/2018/7298-full-costs-2018.pdf)
+* **2018** [*Extended Summary*](https://www.oecd-nea.org/ndd/pubs/2018/7437-full-costs-sum-2018.pdf)
+* **2018** [*Policy Brief*](https://www.oecd-nea.org/policy/fullcosts-pb.pdf)
+
+###### Uranium | Resources, Production and Demand
+* **2012** [*Uranium 2011*](https://www.oecd-nea.org/ndd/pubs/2012/7059-uranium-2011.pdf)
+* **2014** [*Uranium 2014*](https://www.oecd-nea.org/ndd/pubs/2014/7209-uranium-2014.pdf)
+* **2016** [*Uranium 2016*](https://www.oecd-nea.org/ndd/pubs/2016/7301-uranium-2016.pdf)
+* **2018** [*Uranium 2018*](https://www.oecd-nea.org/ndd/pubs/2018/7413-uranium-2018.pdf)
+
+
+### Human Toxicity of Radiation & Nuclear Accidents 
+
+* UNSCEAR (2008,2013,2)
+* WHO 
+
+### Software Tools
+* **2011-2014** [*SPRIng tools*](http://www.springsustainability.org/?page=tools)
+    - [*Energy Technologies Life Cycle Assessment (ETLCA)*](http://www.springsustainability.org/?page=downloads)
+    - [*SPRIng Multi-Criteria Decision Analysis (SPRIng MCDA)*](http://www.springsustainability.org/?page=mcda)
+    - [*Scenario Sustainability Assessment Tool (SSAT) *](http://www.springsustainability.org/?page=ssat)
+* **2017** [*Supporting the multi-criteria decision aiding process: R and the MCDA package*](https://link.springer.com/article/10.1007/s40070-017-0064-1)
+* **2016** [*MCDM R Package*](https://cran.r-project.org/web/packages/MCDM/index.html)
+* **2019** [*MCDA R Package*](https://cran.r-project.org/web/packages/MCDA/index.html)
+    
+### Websites 
+* [*Electricity Map*](electricitymap.org)
+* [*Electricity Bot*](https://twitter.com/BotElectricity)
+* [*Ontario Gridwatch*](https://live.gridwatch.ca/home-page.html)
+* [*The Carbon Map*](http://www.carbonmap.org/)
+* [*Sustainable Industrial Systems*](http://www.sustainable-systems.org.uk)
+
+### Twitter (look at tweets.Rmd)
+
+[Towards net zero CO2 emissions without relying on massive carbon dioxide removal](https://link.springer.com/article/10.1007/s11625-019-00680-1)
+
+
+Figures & Tables
+=======================================================================
+
+Column{.tabset}
+-----------------------------------------------------------------------
+
+### look at figures.Rmd
+
+![](https://drive.google.com/uc?export=view&id=18UZp3IFNI1dE6bxhUqdrLoLHODe7UUKl){width=100px}
+
+
+
+
+Videos
+=======================================================================
+
+Column{.tabset}
+-----------------------------------------------------------------------
+### look at videos.Rmd
