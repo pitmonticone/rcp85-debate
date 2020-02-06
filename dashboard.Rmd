@@ -23,23 +23,23 @@ library(knitr)
 
 library(tidyverse)
 
-library(leaflet) # geospatial mapping
-
-library(dygraphs) # time series charting
-
-library(plotly) # interactive graphics with D3
-
-library(rbokeh) # interface to Bokeh, a powerful declarative Bokeh framework for creating web-based plots.
-
-library(highcharter) # a rich R interface to the popular Highcharts JavaScript graphics library.
-
-library(visNetwork) # interface to the network visualization capabilities of the vis.js library.
-
-library(networkD3) # Graph data visualization with D3
-
-library(d3heatmap) # interactive heatmaps with D3
-
-library(DiagrammeR) # diagrams and flowcharts
+# library(leaflet) # geospatial mapping
+# 
+# library(dygraphs) # time series charting
+# 
+# library(plotly) # interactive graphics with D3
+# 
+# library(rbokeh) # interface to Bokeh, a powerful declarative Bokeh framework for creating web-based plots.
+# 
+# library(highcharter) # a rich R interface to the popular Highcharts JavaScript graphics library.
+# 
+# library(visNetwork) # interface to the network visualization capabilities of the vis.js library.
+# 
+# library(networkD3) # Graph data visualization with D3
+# 
+# library(d3heatmap) # interactive heatmaps with D3
+# 
+# library(DiagrammeR) # diagrams and flowcharts
 
 # Both static (a standard web page) and dynamic/interactive (a Shiny interactive document) complex data visualization
 ```
@@ -207,6 +207,8 @@ IPCC Assessment Report 7 in 2028 to get there! ([Source](https://twitter.com/MLi
 * From my perspective, the issue with the RCP design was that it had been well known in previous decades that if there is no BAU, then people will look for a BAU, and therefore we have to be explicit about that because otherwise people use implicit clues to guide them. ([Source](https://twitter.com/jritch/status/1207671030027825152?s=20))
 * If we had a truly fresh start creating climate scenarios without any previous anchors, would we still select RCP8.5 as an end point? Or would there still be a fight to justify? A big part of the resistance here must be all the inertia created by 1000s of papers in the literature. ([Source](https://twitter.com/jritch/status/1209526698636652544?s=20))
 
+* The high emission AR5 and forthcoming AR6 no climate policy scenarios analyzed here expect rapid fossil growth overall - a substantial discontinuity from the world IEA sees developing. Extreme coal not the only reason RCP8.5 emissions look increasingly implausible. ([Source](https://twitter.com/jritch/status/1224725050470715393?s=20))
+
 **Roger Pielke Jr.** 
 
 * One big problem with $BAU$ is it’s use in $CBA$. Consider if we were to take Zeke & Justin analysis seriously & simply plug it into USNCA, the benefits of mitigation would be zero (obviously wrong). Due to fact that NCA calculated such benefits as impacts avoided/reduced = $BAU$ - $RCP4.5$ . ([Source](https://twitter.com/RogerPielkeJr/status/1207700090439131136?s=20))
@@ -297,6 +299,36 @@ IPCC Assessment Report 7 in 2028 to get there! ([Source](https://twitter.com/MLi
 **Daniel Swain**
 
 * From a physical climate perspective, using RCP8.5 as a shortcut for assessing impacts of __a)__ higher-than-expected direct human emissions, __b)__ higher than median ECS, and/or __c)__ larger-than-expected carbon cycle feedbacks still seems perfectly reasonable. ([Source](https://twitter.com/Weather_West/status/1210988167823675393?s=20))
+
+**Bob Kopp**
+
+* RCPs are a poor communications tools, and clearly a lot of people who think they understand them don’t. Fortunately, the much easier to understand temperature axis is increasingly being used in scientific assessments. ([Source](https://twitter.com/bobkopp/status/1218152478824419328?s=20))
+* But you can’t actually produce the data underlying such temperature-based assessment without a broad underlying set of forcing scenarios like the RCPs. ([Source](https://twitter.com/bobkopp/status/1218152746941124609?s=20))
+* But one useful takeaway: warming is related to cumulative emissions, which is a stock variable; emissions are a flow variable; even if you don’t like the realism of the flow of emissions in RCP 8.5, it doesn’t lead to a comparably unrealistic stock until late in the century. ([Source](https://twitter.com/bobkopp/status/1218161075595698177?s=20))
+* RCP 8.5 cumulative emissions in 2050 roughly comparable to current policies by 2060; RCP 8.5 cumulative emissions by 2070 roughly comparable to current policies by 2100. ([Source](https://twitter.com/bobkopp/status/1218161373403844612?s=20))
+* There’s some evidence in the modeling literature you can interrupt the realization of committed sea level rise if you remove carbon or modify albedo to get back to a lower temperature. ([Source](https://twitter.com/bobkopp/status/1218355300882964482?s=20))
+* So if, say, we are committed to 4 meters sea-level equivalent of ice sheet melt over a millennium or two from 2 C of warming, but if you reach 2 C and then remove carbon to get back down to pre-industrial temperatures, you *might* halt the melt well before you get there. ([Source](https://twitter.com/bobkopp/status/1218355976627261441?s=20))
+* But RCPs aren’t that well designed for studying tipping points - they are too short for many of them - though there has been some work looking at atmospheric and ocean bifurcations in CMIP5 simulations. ([Source](https://twitter.com/bobkopp/status/1218356345549787136?s=20))
+* And if you’re thinking about social tipping points associated with repeated exposure to weather extremes, global mean temperature is a pretty good index variable - RCP 8.5 in 2070 looks a lot like RCP 4.5 in 2100. ([Source](https://twitter.com/bobkopp/status/1218356734370119681?s=20))
+* RCP 8.5 2100 cumulative emissions are about 7500 Gt CO2; RCP 6 are about 5000 Gt CO2; if you emit a constant 50 Gt/yr, RCP 6 in 2150 would look fairly similar to RCP 8.5 in 2100. ([Source](https://twitter.com/bobkopp/status/1218358797841944577?s=20))
+* The real problem with the CMIP5 scenarios is that RCP 6 was bollox as designed, so that RCP 8.5 was closest to BAU as it appeared a decade ago. ([Source](https://twitter.com/bobkopp/status/1218565670763450372?s=20))
+* Specifically because BAU end of the century forcing would be closer to 6 than 8.5 W/m^2, but RCP 6 has lower forcing than RCP 4.5 for much of the century. ([Source](https://twitter.com/bobkopp/status/1218566968711753729?s=20))
+* Let me be more precise: RCP6 is only useful in studies comparing different RCPs when you are looking only at atmospheric variables (not variables with longer memory, like sea level) late in the century. This is because the energy system IAM that produced it has assumptions inconsistent with the IAMs that produced the other three RCPs. This is obvious from looking at the time paths of radiative forcing for the RCPs. ([Source](https://twitter.com/bobkopp/status/1219276232849797120?s=20))
+* They are flawed comparatively because, prior to about 2020, RCP 6 has the lowest forcing of all four RCPs, and prior to about 2060, it is the second lowest. ([Source](https://twitter.com/bobkopp/status/1219278243389493254?s=20))
+* This is why RCP 4.5 and RCP 6 have almost identical 2100 sea level rise projections - not because 1.5 W/m^2 is irrelevant, but because the integrated forcing in the two over the century is quite similar. ([Source](https://twitter.com/bobkopp/status/1219278492849836036?s=20))
+* And yet, someone using the RCPs without having examined them closet might reasonably expect them to be monotonically ordered.  ([Source](https://twitter.com/bobkopp/status/1219278757506289671?s=20))
+* So RCP6 is not useful for communicating the results of an analysis, nor do RCP 6 simulations provide much additional scientific information on top of RCP 4.5 and 8.5. ([Source](https://twitter.com/bobkopp/status/1219279209392214016?s=20))
+* It’s not that it’s completely useless - it does provide info about atmospheric variables at the end of the century under a forcing stronger than in RCP 4.5. But it doesn’t provide info before that and with the benefit of a decade of research hindsight, I think you’d do about as well using simpler climate models to translate an intermediate forcing pathway to global mean temperature and RCP 8.5 simulations to translate global mean temperature to regional atmospheric variables. But the research community hadn’t sorted that out when the RCPs were designed a decade+ ago. ([Source](https://twitter.com/bobkopp/status/1219281867838578689?s=20))
+* For impact projections or for mapping global mean temperature to regional climate changes? Even if RCP 6 were the strongest conceivable forcing scenario, CMIP5 simulations of it would prove inadequate for the latter because they undersample the associated warming. ([Source](https://twitter.com/bobkopp/status/1219284560850169856?s=20))
+* You need a strong forcing scenario in order to develop a global mean T -> regional climate map that spans uncertainty in forcing -> global mean T. ([Source](https://twitter.com/bobkopp/status/1219284774038188033?s=20))
+* As I said above, atmospheric variables like regional temperature and precipitation distributions are closely related to global mean temperature. ([Source](https://twitter.com/bobkopp/status/1222617287208980481?s=20))
+* A 2°C world in 2060 (~ RCP 4.5/6 median) looks physically a lot like a 2°C world on 2050 (~8.5); a 3 C in 2070 (~8.5) looks a lot like a 3 C world in 2100 (~RCP 6). ([Source](https://twitter.com/bobkopp/status/1222617402459992066?s=20))
+* you can't simulate climate physics without a time series of forcing. And this is an approximate relationship -- the world arriving at 3 C does not look like a world that has sat at 3 C for centuries, because of the warming of the deep ocean. ([Source](https://twitter.com/bobkopp/status/1222629048838434822?s=20))
+* The RCPs are idealized trajectories of climate forcing, and then the socioeconomic modelers developed the SSP scenarios, which link to the RCPs using policy assumptions (eg carbon tax/subsidy). ([Source](https://twitter.com/bobkopp/status/1222648440347353088?s=20))
+* I think we need a clearer assignment of tools to tasks. Simple and intermediate-complexity climate models can translate best-available energy system projections to warming; full Earth system models help define what that looks like in detail. ([Source](https://twitter.com/bobkopp/status/1218569183065247750?s=20))
+* The CMIP cycle time is comparable to the IPCC assessment cycle, about 7 years. You’re never going to have an ensemble of GCM simulations driven by up to date energy projections. ([Source](https://twitter.com/bobkopp/status/1218569423549870080?s=20))
+
+
 
 
 ### Glossary
@@ -461,6 +493,13 @@ Column {.tabset}
 ![[Twitter](https://twitter.com/jritch/status/1204807400689033222?s=20)](https://pbs.twimg.com/media/ELhV8NjU0AEC0pT?format=jpg&name=medium){width=500px}
 ![[Twitter](https://twitter.com/jritch/status/1208393733395427328?s=20)](https://pbs.twimg.com/media/EMUTrx-XYAI1QFZ?format=png&name=4096x4096){width=500px}
 
+
+
+![[Twitter](https://twitter.com/jritch/status/1224725028404523011?s=20)](https://pbs.twimg.com/media/EP8Y62aVUAElv6P?format=jpg&name=4096x4096){width=500px}
+![[Twitter](https://twitter.com/jritch/status/1224725039481683968?s=20)](https://pbs.twimg.com/media/EP8Y7eRU0AEUtyz?format=jpg&name=4096x4096){width=500px}
+![[Twitter](https://twitter.com/jritch/status/1224725047685738496?s=20)](https://pbs.twimg.com/media/EP8Y7-OVUAAosU0?format=jpg&name=medium){width=500px}
+
+
 ### Z.Hausfather
 
 ![[Carbon Brief Explainer](https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario?utm_content=buffere7f44&utm_medium=social&utm_Twitter=twitter.com&utm_campaign=buffer)](https://www.carbonbrief.org/wp-content/uploads/2019/08/Schematic-for-the-proposed-parallel-development-of-RCP-climate-scenarios-and-socioeconomic-emissions-scenarios.jpg){width=500px}
@@ -558,13 +597,21 @@ Column {.tabset}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222072521035583488?s=20)](https://pbs.twimg.com/media/EPWsehaWsAEzlbO?format=jpg&name=large){width=500px}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222072529931657217?s=20)](https://pbs.twimg.com/media/EPWsfCTXUAEoUhz?format=jpg&name=large){width=500px}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222072536512507904?s=20)](https://pbs.twimg.com/media/EPWsfjqX0AANv1f?format=png&name=large){width=500px}
+![[Twitter](https://twitter.com/Peters_Glen/status/1222808928578351104?s=20)](https://pbs.twimg.com/media/EPhKO-NXkAAmDOZ?format=jpg&name=large){width=500px}
+![[Twitter](https://twitter.com/Peters_Glen/status/1222808939848523777?s=20)](https://pbs.twimg.com/media/EPhKPsHXUAA0Ycz?format=jpg&name=medium){width=500px}
+![[Twitter](https://twitter.com/Peters_Glen/status/1222808952301289473?s=20)](https://pbs.twimg.com/media/EPhKQQvXsAA4jR_?format=jpg&name=large){width=500px}
+![[Twitter](https://twitter.com/Peters_Glen/status/1222808952301289473?s=20)](https://pbs.twimg.com/media/EPhKQU4XUAAQCGD?format=jpg&name=large){width=500px}
+
+
+
+
 
 ### C.Parker 
 
 ![[Twitter](https://twitter.com/HyperHydr0/status/1193273513966276610?s=20)](https://pbs.twimg.com/media/EI9b7sWW4AAKVde?format=jpg&name=900x900)
 ![[Twitter](https://twitter.com/HyperHydr0/status/1202286756927877120?s=20)](https://pbs.twimg.com/media/EK9hbLQXsAE16dS?format=jpg&name=4096x4096)
 
-### Robert Rohde 
+### R.Rohde 
 
 ![[Twitter](https://twitter.com/RARohde/status/1223335669180850177?s=20)](https://pbs.twimg.com/media/EPopS9rWkAITxXo?format=jpg&name=large){width=400px}
 
@@ -591,6 +638,8 @@ Column {.tabset}
 * [Climate Change Just Got a Little Less Terrible](https://www.bloomberg.com/news/articles/2018-02-09/climate-change-just-got-a-little-less-terrible)
 * [Climate Wars Episode IV – a New Hope for the 2020s?](https://about.bnef.com/blog/in-climate-wars-episode-4-the-2020s-will-bring-new-hope/)
 * [Worst Case for Climate Change Doesn’t Look Realistic](https://www.bloomberg.com/opinion/articles/2019-12-23/worst-case-for-climate-change-doesn-t-look-realistic)
+* [Green Daily: The Making of Worst-Case Climate Scenarios](https://www.bloomberg.com/news/articles/2020-02-03/green-daily-the-making-of-worst-case-climate-scenarios)
+* [Climate Models Are Running Red Hot, and Scientists Don’t Know Why](https://www.bloomberg.com/news/features/2020-02-03/climate-models-are-running-red-hot-and-scientists-don-t-know-why)
 
 **Carbon Brief**
 
@@ -608,11 +657,24 @@ Column {.tabset}
 
 * [What Is Business As Usual?](http://climatechangenationalforum.org/what-is-business-as-usual/)
 
+**climate-nexus**
+
+* [RCP 8.5: Business-as-usual or a worst-case scenario?](https://climatenexus.org/climate-change-news/rcp-8-5-business-as-usual-or-a-worst-case-scenario/)
+
 **Forbes**
 
 * [The Incredible Story Of How Climate Change Became Apocalyptic](https://www.forbes.com/sites/rogerpielke/2019/12/06/the-incredible-story-of-how-climate-change-became-apocalyptic/)
 * [In 2020 Climate Science Needs To Hit The Reset Button, Part 1](https://www.forbes.com/sites/rogerpielke/2019/12/22/in-2020-climate-science-needs-to-hit-the-reset-button-part-one/#35415707482c)
 * [In 2020 Climate Science Needs To Hit The Reset Button, Part 2](https://www.forbes.com/sites/rogerpielke/2019/12/23/in-2020-climate-science-needs-to-hit-the-reset-button-part-two/)
+* [Understanding The Great Climate Science Scenario Debate](https://www.forbes.com/sites/rogerpielke/2020/02/03/understanding-the-great-climate-science-scenario-debate/#63b2745c26a7)
+
+**grist**
+
+* [That dystopian hellscape keeping you up at night? It’s less likely than you think](https://grist.org/climate/that-dystopian-hellscape-keeping-you-up-at-night-its-less-likely-than-you-think/)
+
+**inside climate news**
+
+* [Worst Case Climate Scenario Might Be (Slightly) Less Dire Than Thought](https://insideclimatenews.org/news/31012020/worst-case-climate-change-ipcc-heat-drought-storms)
 
 **Intelligencer**
 
@@ -629,6 +691,10 @@ Column {.tabset}
 **The Breakthrough Institute**
 
 * [A 3C World Is Now “Business as Usual”](https://thebreakthrough.org/issues/energy/3c-world)
+
+**The New York Times**
+
+* [E.P.A. to Limit Science Used to Write Public Health Rules](https://www.nytimes.com/2019/11/11/climate/epa-science-trump.html)
 
 **The Washington Post** 
 
@@ -647,6 +713,7 @@ Column {.tabset}
 * [IEA vs IPCC 1](https://threadreaderapp.com/thread/1196482571443425280.html)
 * [IEA vs IPCC 2](https://threadreaderapp.com/thread/1199729350330839042.html?refreshed=yes)
 * [IEA vs IPCC 3](https://threadreaderapp.com/thread/1204113683728592897.html)
+* [IEA WEO vs. SSP for IPCC AR6](https://threadreaderapp.com/thread/1224725028404523011.html?refreshed=yes)
 
 **G.Peters**
 
@@ -661,6 +728,7 @@ Column {.tabset}
 * [New BAU 1](https://threadreaderapp.com/thread/1207355805378342913.html)
 * [New BAU 2](https://threadreaderapp.com/thread/1209172698657509376.html)
 * [Nature Comment](https://threadreaderapp.com/thread/1222581640058114048.html)
+* [Historical Trends & Emission Scenarios](https://threadreaderapp.com/thread/1222808928578351104.html)
 
 **Roger Pielke Jr.**
 
@@ -686,6 +754,7 @@ Column {.tabset}
 * [Comments to Nature Comment by Peters & Hausfather](https://threadreaderapp.com/thread/1222697095368495104.html?refreshed=yes)
 
 **C. Mooney**
+
 * [Two very different climate stories from yesterday – but they’re actually closely connected](https://threadreaderapp.com/thread/1223283965429276679.html)
 
 
@@ -696,20 +765,38 @@ Column {.tabset}
 
 ### Papers 
 
+**2001**
+
+* [What is 'dangerous' climate change?, *Nature*](https://www.nature.com/articles/35075167)
+
+**2005**
+
+* [Evolution of carbon sinks in a changing climate](https://www.pnas.org/content/102/32/11201?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0)
+
 **2007**
 
 * [Scenarios of long-term socio-economic and environmental development under climate stabilization, *Technological Forecasting and Social Change*](https://www.sciencedirect.com/science/article/pii/S0040162506001387?via%3Dihub)
+* [Conditional probabilistic estimates of 21st century greenhouse gas emissions based on the storylines of the IPCC-SRES scenarios, *Global Environmental Change*](https://www.sciencedirect.com/science/article/abs/pii/S0959378008000460?via%3Dihub)
+* [Carbon cycle conundrums, *PNAS*](https://www.pnas.org/content/104/47/18353.long?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0)
+* [Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity, and efficiency of natural sinks, *PNAS*](https://www.pnas.org/content/104/47/18866.long?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0)
 
 **2008**
 
 * [Improving the way we think about projecting future energy use and emissions of carbon dioxide, *Climatic Change*](https://link.springer.com/article/10.1007%2Fs10584-008-9458-1)
 
+**2009**
+
+* [Forecasting coal production until 2100, *Fuel*](https://www.sciencedirect.com/science/article/pii/S0016236109000507?via%3Dihub)
+
 **2010**
 
 * [The next generation of scenarios for climate change research and assessment, *Nature*](https://www.nature.com/articles/nature08823)
+* [A global coal production forecast with multi-Hubbert cycle analysis, *Energy*](https://www.sciencedirect.com/science/article/abs/pii/S0360544210000617?via%3Dihub)
 
 **2011**
 
+* [Estimating long-term world coal production with logit and probit transforms, *International Journal of Coal Geology*](https://www.sciencedirect.com/science/article/pii/S0166516210002144?via%3Dihub)
+* [Constraints of fossil fuels depletion on global warming projections, *Energy Policy*](https://www.sciencedirect.com/science/article/abs/pii/S0301421511004654)
 * [Comparing future patterns of energy system change in 2 °C scenarios with historically observed rates of change, *Climatic Change*](https://www.sciencedirect.com/science/article/abs/pii/S095937801530056X)
 * [RCP 8.5: A scenario of comparatively high greenhouse gas emissions, *Climatic Change*](https://link.springer.com/article/10.1007/s10584-011-0149-y)
 * [The Representative Concentration Pathways: An Overview, *Climatic Change*](https://link.springer.com/article/10.1007/s10584-011-0148-z)
@@ -721,12 +808,16 @@ Column {.tabset}
 **2014**
 
 * [A New Scenario Framework For Climate Change Research: The Concept of Shared Socioeconomic Pathways, *Climatic Change*](https://link.springer.com/article/10.1007%2Fs10584-013-0905-2)
-* [Projection of world fossil fuels by country, *Fuel*](https://www.sciencedirect.com/science/article/pii/S0016236114010254)
 * [Uncertainties in CMIP5 Climate Projections due to Carbon Cycle Feedbacks, *American Meteorological Society*](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-12-00579.1)
+* [Identifying parametric controls and dependencies in integrated assessment models using global sensitivity analysis, *Environmental Modelling & Software*](https://www.sciencedirect.com/science/article/pii/S1364815214001327?via%3Dihub)
+
 
 **2015**
 
+* [Projection of world fossil fuels by country, *Fuel*](https://www.sciencedirect.com/science/article/pii/S0016236114010254)
 * [Comparing future patterns of energy system change in 2 °C scenarios with historically observed rates of change, *Global Environmental Change*](https://link.springer.com/article/10.1007/s10584-011-0156-z)
+* [Sensitivity to energy technology costs: A multi-model comparison analysis, *Energy Policy*](https://www.sciencedirect.com/science/article/abs/pii/S0301421514006776?via%3Dihub)
+
 
 **2016**
 
@@ -737,6 +828,7 @@ Column {.tabset}
 * [Fossil-fueled development (SSP5): An energy and resource intensive scenario for the 21st century, *Global Environmental Change*](https://www.sciencedirect.com/science/article/pii/S0959378016300711?via%3Dihub)
 * [Land-use Futures in The Shared Socio-Economic Pathways, *Global Environmental Change*](https://www.sciencedirect.com/science/article/pii/S0959378016303399)
 * [Paris Agreement climate proposals need a boost to keep warming well below 2°C, *Nature*](https://www.nature.com/articles/nature18307)
+* [Likelihood of climate change pathways under uncertainty on fossil fuel resource availability, *Energy & Environmental Science*](https://pubs.rsc.org/en/content/articlelanding/2016/EE/C6EE01008C#!divAbstract) 
 
 **2017**
 
@@ -746,25 +838,34 @@ Column {.tabset}
 * [The 1000 GtC coal question: Are cases of vastly expanded future coal combustion still plausible?, *Energy Economics*](https://www.sciencedirect.com/science/article/pii/S0140988317301226)
 * [Transforming communication and knowledge production processes to address high-end climate change, *Environmental Science & Policy*](https://www.sciencedirect.com/science/article/abs/pii/S1462901116303914?via%3Dihub)
 * [Towards real-time verification of CO2 emissions, *Nature Climate Change*](https://www.nature.com/articles/s41558-017-0013-9)
+* [Sensitivity of projected long-term CO2 emissions across the Shared Socioeconomic Pathways, *Nature Climate Change*](https://www.nature.com/articles/nclimate3199)
+* [The implications of fossil fuel supply constraints on climate change projections: A supply-side analysis, *Futures*](https://www.sciencedirect.com/science/article/abs/pii/S0016328715300690?via%3Dihub)
+* [Key indicators to track current progress and future ambition of the Paris Agreement, *Nature Climate Change*](https://www.nature.com/articles/nclimate3202)
 
 **2018**
 
+* [Radiative Forcing of Climate Change, *IPCC*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&cad=rja&uact=8&ved=2ahUKEwiQo_D1zbrnAhUK4aQKHUKTA00QFjAMegQIBBAB&url=https%3A%2F%2Fwww.ipcc.ch%2Fsite%2Fassets%2Fuploads%2F2018%2F03%2FTAR-06.pdf&usg=AOvVaw2mWL-Cl6NwOTTmauXKOCYQ)
+* [Data Tools and Scenario Products, *NCA4*](https://nca2018.globalchange.gov/chapter/appendix-3/)
+* [Contributions of natural systems and human activity to greenhouse gas emissions, *Advances in Climate Change Research*](https://www.sciencedirect.com/science/article/pii/S1674927818300376?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Advances_in_Climate_Change_Research_TrendMD_1)
 * [Defining climate change scenario characteristics with a phase space of cumulative primary energy and carbon intensity, *Environmental Research Letters*](https://iopscience.iop.org/article/10.1088/1748-9326/aaa494)
 * [Mitigation scenarios must cater to new users, *Nature Climate Change*](https://www.nature.com/articles/s41558-018-0293-8)
 * [Extending Near‐Term Emissions Scenarios to Assess Warming Implications of Paris Agreement NDCs, *Earth's Future*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000781)
 * [Measuring Success: Improving Assessments of Aggregate Greenhouse Gas Emissions Reduction Goals, *Earth's Future*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EF000865)
+* [Modeling Uncertainty in Integrated Assessment of Climate Change: A Multimodel Comparison, *Journal of the Association of Environmental and Resource Economists*](https://www.journals.uchicago.edu/doi/10.1086/698910?mobileUi=0&)
 
 
 **2019**
 
 * [Not all carbon dioxide emission scenarios are equally likely: a subjective expert assessment, *Climatic Change*](https://link.springer.com/article/10.1007/s10584-019-02500-y)
 * [Climate tipping points — too risky to bet against, *Nature*](https://www.nature.com/articles/d41586-019-03595-0)
-
+* [Economic carbon cycle feedbacks may offset additional warming from natural feedbacks, *PNAS*](https://www.pnas.org/content/116/3/759)
+* [Characteristic disruptions of an excitable carbon cycle, *PNAS*](https://www.pnas.org/content/116/30/14813)
 
 **2020**
 
 * [Emissions – the ‘business as usual’ story is misleading, *Nature*](https://www.nature.com/articles/d41586-020-00177-3)
-
+* [Higher than expected CO2 fertilization inferred from leaf to global observations, *Global Change Biology*](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14950)
+* [Partitioning climate projection uncertainty with multiple Large Ensembles and CMIP5/6, *Earth System Dynamics*](https://www.earth-syst-dynam-discuss.net/esd-2019-93/)
 
 ### Reports
 
@@ -802,10 +903,11 @@ Column {.tabset}
 
 **The Energy Transition Show**
 
-* [Episode #49 with Ritchie](https://xenetwork.org/ets/episodes/episode-49-climate-science-part-5-business-usual/)
-* [Episode #112 with Glen Peters](https://xenetwork.org/ets/episodes/episode-112-climate-science-part-11-climate-confusion/)
+* [Episode #49 with J.Ritchie](https://xenetwork.org/ets/episodes/episode-49-climate-science-part-5-business-usual/)
+* [Episode #112 with G.Peters](https://xenetwork.org/ets/episodes/episode-112-climate-science-part-11-climate-confusion/)
 
 ##### Videos 
+
 * [Revisiting Business-As-Usual | Justin Ritchie](https://youtu.be/HKK3GjI3_eE)
 * [Revisiting Worst-Case Climate Scenarios: Is RCP8.5 Still Plausible? | Justin Ritchie](https://youtu.be/w1YO95nXPVw)
 
