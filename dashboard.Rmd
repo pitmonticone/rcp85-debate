@@ -603,17 +603,17 @@ Column {.tabset}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222808952301289473?s=20)](https://pbs.twimg.com/media/EPhKQU4XUAAQCGD?format=jpg&name=large){width=500px}
 
 
-
+![[Twitter](https://twitter.com/Peters_Glen/status/1225332469890768898?s=20)](https://pbs.twimg.com/media/EQFAYCHU4AA_fFv?format=png&name=large){width=500px}
 
 
 ### C.Parker 
 
-![[Twitter](https://twitter.com/HyperHydr0/status/1193273513966276610?s=20)](https://pbs.twimg.com/media/EI9b7sWW4AAKVde?format=jpg&name=900x900)
-![[Twitter](https://twitter.com/HyperHydr0/status/1202286756927877120?s=20)](https://pbs.twimg.com/media/EK9hbLQXsAE16dS?format=jpg&name=4096x4096)
+![[Twitter](https://twitter.com/HyperHydr0/status/1193273513966276610?s=20)](https://pbs.twimg.com/media/EI9b7sWW4AAKVde?format=jpg&name=900x900){width=500px}
+![[Twitter](https://twitter.com/HyperHydr0/status/1202286756927877120?s=20)](https://pbs.twimg.com/media/EK9hbLQXsAE16dS?format=jpg&name=4096x4096){width=500px}
 
 ### R.Rohde 
 
-![[Twitter](https://twitter.com/RARohde/status/1223335669180850177?s=20)](https://pbs.twimg.com/media/EPopS9rWkAITxXo?format=jpg&name=large){width=400px}
+![[Twitter](https://twitter.com/RARohde/status/1223335669180850177?s=20)](https://pbs.twimg.com/media/EPopS9rWkAITxXo?format=jpg&name=large){width=500px}
 
 
 References
@@ -626,8 +626,15 @@ Column {.tabset}
 
 **... and Then There's Physics**
 
+* [RCPs as scenarios](https://andthentheresphysics.wordpress.com/2015/12/17/rcps-as-scenarios/)
+* [RCP8.5](https://andthentheresphysics.wordpress.com/2018/05/10/rcp8-5/)
+* [10% of GDP?](https://andthentheresphysics.wordpress.com/2018/11/28/10-of-gdp/)
+* [The plausibility of RCP8.5](https://andthentheresphysics.wordpress.com/2018/12/02/the-plausibility-of-rcp8-5/)
+* [The Plausibility of RCP8.5 – part II](https://andthentheresphysics.wordpress.com/2019/03/10/the-plausibility-of-rcp8-5-part-ii/)
+* [Sigh](https://andthentheresphysics.wordpress.com/2019/08/11/sigh/)
 * [The never-ending RCP8.5 debate](https://andthentheresphysics.wordpress.com/2019/12/24/the-never-ending-rcp8-5-debate/)
 * [RCP8.5 – another update](https://andthentheresphysics.wordpress.com/2020/01/31/rcp8-5-another-update/)
+* [But RCPs](https://andthentheresphysics.wordpress.com/2020/02/09/but-rcps/)
 
 **AXIOS**
 
@@ -656,6 +663,11 @@ Column {.tabset}
 **Climate Change National Forum**
 
 * [What Is Business As Usual?](http://climatechangenationalforum.org/what-is-business-as-usual/)
+
+**Climate Etc.**
+
+* [A closer look at scenario RCP8.5](https://judithcurry.com/2015/12/13/a-closer-look-at-scenario-rcp8-5/)
+* [Climate Change: What’s the Worst Case?](https://judithcurry.com/2019/08/22/climate-change-whats-the-worst-case/)
 
 **climate-nexus**
 
@@ -687,6 +699,10 @@ Column {.tabset}
 **Medium**
 
 * [Your Hot Take on Climate Models Is Just Another Political Opinion and That’s Okay](https://medium.com/@aaronhuertas/your-hot-take-on-climate-models-is-just-another-political-opinion-and-thats-okay-153bd249e87)
+
+**Real Climate**
+
+* [The best case for worst case scenarios](http://www.realclimate.org/index.php/archives/2019/02/the-best-case-for-worst-case-scenarios/comment-page-2/)
 
 **The Breakthrough Institute**
 
@@ -771,7 +787,7 @@ Column {.tabset}
 
 **2005**
 
-* [Evolution of carbon sinks in a changing climate](https://www.pnas.org/content/102/32/11201?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0)
+* [Evolution of carbon sinks in a changing climate, *PNAS*](https://www.pnas.org/content/102/32/11201?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0)
 
 **2007**
 
@@ -896,6 +912,9 @@ Column {.tabset}
 
 * [Pardee Center Working Paper, University of Denver](https://pardee.du.edu/sites/default/files/Scenarios%20Forum%20Meeting%20Report%204oct19.pdf)
 
+**McKinsey Global Institute**
+
+* [Climate risk and response: Physical hazards and socioeconomic impacts](https://www.mckinsey.com/business-functions/sustainability/our-insights/climate-risk-and-response-physical-hazards-and-socioeconomic-impacts)
 
 ### Podcasts & Videos
 
