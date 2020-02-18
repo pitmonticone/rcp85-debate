@@ -76,6 +76,7 @@ People
 * [Michael Tobis](https://twitter.com/mtobis)
 * [Oliver Geden](https://twitter.com/Oliver_Geden)
 * [Chris Mooney](https://twitter.com/chriscmooney)
+* [Joeri Rogelj](https://twitter.com/JoeriRogelj)
 
 Contents
 =======================================================================
@@ -327,6 +328,15 @@ IPCC Assessment Report 7 in 2028 to get there! ([Source](https://twitter.com/MLi
 * The RCPs are idealized trajectories of climate forcing, and then the socioeconomic modelers developed the SSP scenarios, which link to the RCPs using policy assumptions (eg carbon tax/subsidy). ([Source](https://twitter.com/bobkopp/status/1222648440347353088?s=20))
 * I think we need a clearer assignment of tools to tasks. Simple and intermediate-complexity climate models can translate best-available energy system projections to warming; full Earth system models help define what that looks like in detail. ([Source](https://twitter.com/bobkopp/status/1218569183065247750?s=20))
 * The CMIP cycle time is comparable to the IPCC assessment cycle, about 7 years. You’re never going to have an ensemble of GCM simulations driven by up to date energy projections. ([Source](https://twitter.com/bobkopp/status/1218569423549870080?s=20))
+
+**Joeri Rogelj**
+
+* In the heat of the RCP8.5 debate, one shouldn't forget the value of extreme scenarios. In a new [@NatureEnergyJnl](https://twitter.com/NatureEnergyJnl) commentary we call on the modelling community to explore scenario extremes as a way of understanding and preparing for an unknowable future: https://rdcu.be/b1OcE. ([Source](https://twitter.com/JoeriRogelj/status/1229482786077265925?s=20))
+* Just to be sure, our piece calls for exploration of extreme scenarios in addition of more central projections. It is not an either-or situation, but scenarios play roles beyond simply projecting our current believes and biases in as narrow a cone as possible into the future. ([Source](https://twitter.com/JoeriRogelj/status/1229712269308833792?s=20))
+* All scenarios are fiction though - future plausibility cannot be objectively demonstrated. Each scenario needs a selfconsistent narrative so its plausibility can be judged independently by users. Scenarios are tools to understand choices & risks, both likely and unlikely ones.. ([Source](https://twitter.com/JoeriRogelj/status/1229711698837360640?s=20))
+* Scenarios are commonly interpreted as forecasts requiring probabilities to be attached to them. Probabilities in this context are people's quantified subjective expectations, biases & beliefs. While being valuable when well-informed scenarios also play other roles. ([Source](https://twitter.com/JoeriRogelj/status/1229709610401124352?s=20))
+* The subjective nature of scenario probabilities makes them closer to art than objective science, but nevertheless important for decision-making! Only following a forecasting rationale runs the risk of being blind-sided by unlikely but important surprises.  ([Source](https://twitter.com/JoeriRogelj/status/1229709613232218114?s=20))
+* Our call for including #Futures methods to explore scenario extremes aims at identifying the more robust policy choices in light of both what is probable (scenarios used in the sense [@MLiebreich](https://twitter.com/MLiebreich) suggests) and what cannot be excluded: https://rdcu.be/b1OcE. ([Source](https://twitter.com/JoeriRogelj/status/1229709751757475840?s=20))
 
 
 
@@ -615,6 +625,10 @@ Column {.tabset}
 
 ![[Twitter](https://twitter.com/RARohde/status/1223335669180850177?s=20)](https://pbs.twimg.com/media/EPopS9rWkAITxXo?format=jpg&name=large){width=500px}
 
+### Joeri Rogelj
+
+![[Twitter](https://twitter.com/JoeriRogelj/status/1229482797292834817?s=20)](https://pbs.twimg.com/media/ERAAFY-X0AERikd?format=png&name=4096x4096){width=500px}
+
 
 References
 =======================================================================
@@ -882,6 +896,7 @@ Column {.tabset}
 * [Emissions – the ‘business as usual’ story is misleading, *Nature*](https://www.nature.com/articles/d41586-020-00177-3)
 * [Higher than expected CO2 fertilization inferred from leaf to global observations, *Global Change Biology*](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14950)
 * [Partitioning climate projection uncertainty with multiple Large Ensembles and CMIP5/6, *Earth System Dynamics*](https://www.earth-syst-dynam-discuss.net/esd-2019-93/)
+* [Energy modellers should explore extremes more systematically in scenarios, *Nature Energy*](https://www.nature.com/articles/s41560-020-0555-3)
 
 ### Reports
 
