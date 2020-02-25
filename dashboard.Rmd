@@ -88,7 +88,7 @@ Column {.tabset}
 
 1. *Emissions Narratives $\neq$ Emissions $\neq RF \neq T$ $\neq$ Impacts*
 
-1. *Narratives for $SSP5-RCP8.5$ are too fossil-heavy given current best estimate for $BAU$*
+1. *Narratives for $RCP8.5$ / $SSP5-8.5$ are too fossil-heavy given current best estimate for $BAU$*
 
 1. *$RF(2100)\approx 8.5 W/{m^2}$ is very unlikely*
 
