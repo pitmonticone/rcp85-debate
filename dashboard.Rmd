@@ -882,7 +882,7 @@ Column {.tabset}
 * [Extending Near‐Term Emissions Scenarios to Assess Warming Implications of Paris Agreement NDCs, *Earth's Future*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000781)
 * [Measuring Success: Improving Assessments of Aggregate Greenhouse Gas Emissions Reduction Goals, *Earth's Future*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EF000865)
 * [Modeling Uncertainty in Integrated Assessment of Climate Change: A Multimodel Comparison, *Journal of the Association of Environmental and Resource Economists*](https://www.journals.uchicago.edu/doi/10.1086/698910?mobileUi=0&)
-* [Enhancing global climate policy ambition towards a 1.5 °C stabilization: a short-term multi-model assessment, *Environmental Research Letters*](https://iopscience.iop.org/article/10.1088/1748-9326/aab53e/meta)
+* [Enhancing global climate policy ambition towards a 1.5°C stabilization: a short-term multi-model assessment, *Environmental Research Letters*](https://iopscience.iop.org/article/10.1088/1748-9326/aab53e/meta)
 
 
 **2019**
@@ -898,6 +898,7 @@ Column {.tabset}
 * [Higher than expected CO2 fertilization inferred from leaf to global observations, *Global Change Biology*](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14950)
 * [Partitioning climate projection uncertainty with multiple Large Ensembles and CMIP5/6, *Earth System Dynamics*](https://www.earth-syst-dynam-discuss.net/esd-2019-93/)
 * [Energy modellers should explore extremes more systematically in scenarios, *Nature Energy*](https://www.nature.com/articles/s41560-020-0555-3)
+* [IPCC baseline scenarios over-project CO2 emissions and economic growth, *SocArXiv*](https://doi.org/10.31235/osf.io/ahsxw)
 
 ### Reports
 
