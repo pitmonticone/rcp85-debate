@@ -611,8 +611,6 @@ Column {.tabset}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222808939848523777?s=20)](https://pbs.twimg.com/media/EPhKPsHXUAA0Ycz?format=jpg&name=medium){width=500px}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222808952301289473?s=20)](https://pbs.twimg.com/media/EPhKQQvXsAA4jR_?format=jpg&name=large){width=500px}
 ![[Twitter](https://twitter.com/Peters_Glen/status/1222808952301289473?s=20)](https://pbs.twimg.com/media/EPhKQU4XUAAQCGD?format=jpg&name=large){width=500px}
-
-
 ![[Twitter](https://twitter.com/Peters_Glen/status/1225332469890768898?s=20)](https://pbs.twimg.com/media/EQFAYCHU4AA_fFv?format=png&name=large){width=500px}
 
 
