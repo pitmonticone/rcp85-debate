@@ -685,6 +685,10 @@ Column {.tabset}
 
 * [RCP 8.5: Business-as-usual or a worst-case scenario?](https://climatenexus.org/climate-change-news/rcp-8-5-business-as-usual-or-a-worst-case-scenario/)
 
+*E&E News*
+
+* [Worst climate scenario probably won't happen, scientists say](https://www.eenews.net/stories/1062213413)
+
 **Forbes**
 
 * [The Incredible Story Of How Climate Change Became Apocalyptic](https://www.forbes.com/sites/rogerpielke/2019/12/06/the-incredible-story-of-how-climate-change-became-apocalyptic/)
@@ -715,6 +719,10 @@ Column {.tabset}
 **Real Climate**
 
 * [The best case for worst case scenarios](http://www.realclimate.org/index.php/archives/2019/02/the-best-case-for-worst-case-scenarios/comment-page-2/)
+
+**Scientific American**
+
+* [Climate Models Got It Right on Global Warming](https://www.scientificamerican.com/article/climate-models-got-it-right-on-global-warming/)
 
 **The Breakthrough Institute**
 
@@ -940,8 +948,12 @@ Column {.tabset}
 
 **The Energy Transition Show**
 
-* [Episode #49 with J.Ritchie](https://xenetwork.org/ets/episodes/episode-49-climate-science-part-5-business-usual/)
-* [Episode #112 with G.Peters](https://xenetwork.org/ets/episodes/episode-112-climate-science-part-11-climate-confusion/)
+* [Episode #49 | J.Ritchie](https://xenetwork.org/ets/episodes/episode-49-climate-science-part-5-business-usual/)
+* [Episode #112 | G.Peters](https://xenetwork.org/ets/episodes/episode-112-climate-science-part-11-climate-confusion/)
+* [Episode #116 | M.Liebreich & N.Bauer](https://xenetwork.org/ets/episodes/episode-116-climate-science-part-12a-improving-climate-modeling/)
+
+**The Inquiry**
+* [Have our climate models been wrong? | C.Harvey, J.Ritchie, R.Pielke Jr. & R.Betts](https://www.bbc.co.uk/programmes/w3csythg)
 
 ##### Videos 
 
