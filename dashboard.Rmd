@@ -950,7 +950,8 @@ Column {.tabset}
 
 * [Episode #49 | J.Ritchie](https://xenetwork.org/ets/episodes/episode-49-climate-science-part-5-business-usual/)
 * [Episode #112 | G.Peters](https://xenetwork.org/ets/episodes/episode-112-climate-science-part-11-climate-confusion/)
-* [Episode #116 | M.Liebreich & N.Bauer](https://xenetwork.org/ets/episodes/episode-116-climate-science-part-12a-improving-climate-modeling/)
+* [Episode #116 | M.Liebreich & N.Bauer (1)](https://xenetwork.org/ets/episodes/episode-116-climate-science-part-12a-improving-climate-modeling/)
+* [Episode #116 | M.Liebreich & N.Bauer (2)](https://xenetwork.org/ets/episodes/episode-117-climate-science-part-12b-improving-climate-modeling/)
 
 **The Inquiry**
 * [Have our climate models been wrong? | C.Harvey, J.Ritchie, R.Pielke Jr. & R.Betts](https://www.bbc.co.uk/programmes/w3csythg)
