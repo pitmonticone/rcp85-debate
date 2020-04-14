@@ -665,6 +665,7 @@ Column {.tabset}
 * [Carbon Brief Explainer: How ‘Shared Socioeconomic Pathways’ explore future climate change](https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-future-climate-change)
 * [Carbon Brief Explainer: The high-emissions ‘RCP8.5’ global warming scenario](https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario)
 * [Carbon Brief Explainer: How scientists estimate ‘climate sensitivity’](https://www.carbonbrief.org/explainer-how-scientists-estimate-climate-sensitivity)
+* [Carbon Brief Analysis: How ‘carbon-cycle feedbacks’ could make global warming worse](https://www.carbonbrief.org/analysis-how-carbon-cycle-feedbacks-could-make-global-warming-worse)
 
 **CICERO**
 
