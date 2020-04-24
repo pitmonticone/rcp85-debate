@@ -909,6 +909,8 @@ Column {.tabset}
 * [Partitioning climate projection uncertainty with multiple Large Ensembles and CMIP5/6, *Earth System Dynamics*](https://www.earth-syst-dynam-discuss.net/esd-2019-93/)
 * [Energy modellers should explore extremes more systematically in scenarios, *Nature Energy*](https://www.nature.com/articles/s41560-020-0555-3)
 * [IPCC baseline scenarios over-project CO2 emissions and economic growth, *SocArXiv*](https://doi.org/10.31235/osf.io/ahsxw)
+* [Climate change: making decisions in the face of deep uncertainty, *Nature*](https://www.nature.com/articles/d41586-020-01147-5)
+* [How hot will Earth get by 2100?, *Nature*](https://www.nature.com/articles/d41586-020-01125-x)
 
 ### Reports
 
