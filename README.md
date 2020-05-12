@@ -4,7 +4,7 @@ Explore the [dashboard](https://pitmonticone.github.io/rcp85-debate/dashboard.ht
 
 <br><br>
 
-**Copyright 2020 Pietro Monticone**
+### Copyright 2020 Pietro Monticone
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
