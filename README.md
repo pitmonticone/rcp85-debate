@@ -1,6 +1,22 @@
-![Size](https://img.shields.io/github/repo-size/pitmonticone/rcp85-debate)
+<!-- Meta-Badges -->
+</p>
 
-## The RCP8.5 Debate
+<p align="center">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/pitmonticone/rcp85-debate">
+  </a>
+    <img alt="Languages" src="https://img.shields.io/github/languages/count/pitmonticone/rcp85-debate">
+  </a>
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/pitmonticone/rcp85-debate">
+  </a>
+    <img alt="Apace-2.0 License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  </a>
+  
+</p>
+
+<!-- Title -->
+<h1 align="center">
+  The RCP8.5 Debate
+</h1>
 
 Explore the [dashboard](https://pitmonticone.github.io/rcp85-debate/dashboard.html).
 
